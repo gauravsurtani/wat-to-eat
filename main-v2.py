@@ -12,18 +12,42 @@ def load_data(n_rows=10000):
         df['tags'] = df['tags'].apply(ast.literal_eval)  # Only convert if it's a string
     return df
 
-# Function to combine features for a specific group of tags
+# Function to combine all tag features into a single string
+def combine_all_features(row, tag_columns):
+    combined_str = ''
+    for col in tag_columns:
+        if col in row:
+            combined_str += ' '.join(row[col]) + ' '
+    return combined_str.strip()
+
+# Function to calculate and return recommendations based on all tags
+def get_recommendations_all_tags(recipes_df, recipe_index, top_n=5):
+    recipes_df['all_tags_combined'] = recipes_df.apply(
+        lambda row: combine_all_features(row, list(tag_categories.keys())), axis=1
+    )
+    # Vectorize the combined tags
+    vectorizer = CountVectorizer(tokenizer=lambda x: x.split(' '))
+    features_matrix = vectorizer.fit_transform(recipes_df['all_tags_combined'])
+    # Compute cosine similarity
+    similarity_matrix = cosine_similarity(features_matrix)
+    # Convert similarity matrix to DataFrame
+    similarity_df = pd.DataFrame(similarity_matrix, index=recipes_df.index, columns=recipes_df.index)
+    # Get top N similar recipes
+    similar_scores = similarity_df[recipe_index].sort_values(ascending=False)
+    similar_recipes = similar_scores.drop(recipe_index).head(top_n)
+    return similar_recipes
+
+# Function to combine features for a specific tag group
 def combine_group_features(row, tag_column):
     if tag_column in row and isinstance(row[tag_column], list):
         return ' '.join(row[tag_column])
     return ''
 
 # Function to calculate and return recommendations for a specific group
-def get_recommendations_for_group(recipes_df, tag_column, recipe_index, top_n=10):
+def get_recommendations_for_group(recipes_df, tag_column, recipe_index, top_n=5):
     # Combine features for the specified tag column
     if tag_column not in recipes_df:
         raise ValueError(f"Tag column '{tag_column}' does not exist in the DataFrame.")
-
     recipes_df[f'{tag_column}_features'] = recipes_df.apply(
         lambda row: combine_group_features(row, tag_column), axis=1
     )
@@ -64,8 +88,12 @@ for category, category_tags in tag_categories.items():
 # Streamlit UI for multi-tag recommendations
 st.title("Multi-Level Recipe Recommendation System")
 
-# User selects a recipe
-selected_recipe_name = st.selectbox("Select a Recipe", recipes_df['name'])
+# User selects a recipe (clearable dropdown)
+selected_recipe_name = st.selectbox(
+    "Select a Recipe",
+    options=[""] + recipes_df['name'].tolist(),  # Add an empty option for clearing
+    format_func=lambda x: "Select a Recipe" if x == "" else x,  # Placeholder
+)
 
 if selected_recipe_name:
     # Get the index of the selected recipe
@@ -73,15 +101,20 @@ if selected_recipe_name:
     st.subheader(f"Selected Recipe: {selected_recipe_name}")
     st.write(f"Tags: {recipes_df.loc[selected_recipe_index, 'tags']}")
 
-    # User selects a tag group for recommendations
-    selected_group = st.selectbox("Select Tag Group for Recommendations", list(tag_categories.keys()))
+    # Show recommendations based on all tags
+    st.subheader("Most Similar Recipes Based on All Tags")
+    all_tag_recommendations = get_recommendations_all_tags(recipes_df, selected_recipe_index, top_n=5)
+    for idx in all_tag_recommendations.index:
+        st.write(f"- **{recipes_df.loc[idx, 'name']}**")
+        st.write(f"Tags: {recipes_df.loc[idx, 'tags']}")
 
-    if st.button("Generate Recommendations"):
+    # Optional: User selects a tag group for more detailed recommendations
+    selected_group = st.selectbox("Select Tag Group for Detailed Recommendations", list(tag_categories.keys()))
+    if st.button("Generate Detailed Recommendations"):
         try:
-            # Generate recommendations for the selected tag group
-            recommendations = get_recommendations_for_group(recipes_df, selected_group, selected_recipe_index, top_n=5)
+            group_recommendations = get_recommendations_for_group(recipes_df, selected_group, selected_recipe_index, top_n=5)
             st.subheader(f"Recommendations Based on {selected_group.replace('_', ' ').capitalize()}:")
-            for idx in recommendations.index:
+            for idx in group_recommendations.index:
                 st.write(f"- **{recipes_df.loc[idx, 'name']}**")
                 st.write(f"Tags: {recipes_df.loc[idx, selected_group]}")
         except ValueError as e:
