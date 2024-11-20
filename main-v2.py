@@ -9,7 +9,7 @@ import time
 # Load the dataset (use only 10,000 rows for faster processing)
 @st.cache_data
 def load_data():
-    df = pd.read_csv('RAW_recipes.csv')  # Load only 10,000 rows
+    df = pd.read_csv('RAW_recipes.csv', nrows=10000)  # Load only 10,000 rows
     return df
 
 recipes_df = load_data()
@@ -41,7 +41,7 @@ tag_categories = {
     "Specific Ingredients Tags": ['chocolate', 'berries', 'tropical-fruit', 'onions', 'citrus', 'potatoes', 'carrots', 'mushrooms']
 }
 
-# Add categorized columns to the DataFrame (replace with your actual tag definitions)
+# Add categorized columns to the DataFrame
 recipes_df['time_tags'] = recipes_df['tags'].apply(lambda x: categorize_tags(x, tag_categories["Time Tags"]))
 recipes_df['course_tags'] = recipes_df['tags'].apply(lambda x: categorize_tags(x, tag_categories["Course Tags"]))
 recipes_df['cuisine_tags'] = recipes_df['tags'].apply(lambda x: categorize_tags(x, tag_categories["Cuisine Tags"]))
@@ -79,10 +79,12 @@ def get_similar_recipes(recipe_index, top_n=5):
     return similar_recipes
 
 # Streamlit UI
-st.title("Advanced Recipe Recommender")
+st.title("Advanced Food Recommender")
 
-# Dropdown for recipe selection
-selected_recipe_name = st.selectbox("Select a Recipe", recipes_df['name'])
+# Dropdown for recipe selection with delayed processing
+with st.spinner("Loading dropdown..."):
+    time.sleep(5)  # Simulates loading time for dropdown
+    selected_recipe_name = st.selectbox("What do you like to eat?", recipes_df['name'])
 
 # Display selected recipe details
 if selected_recipe_name:
