@@ -1,0 +1,1101 @@
+Recipe ID,Recipe Name,Tag Group,Total Recommendations,Matches,Precision,Best Match Score
+103031,teriyaki potatoes,time_tags,5,2,0.4,1.0
+103031,teriyaki potatoes,course_tags,5,1,0.2,1.0
+103031,teriyaki potatoes,cuisine_tags,5,0,0.0,0.0
+103031,teriyaki potatoes,dietary_tags,5,1,0.2,1.0
+103031,teriyaki potatoes,ingredient_tags,5,0,0.0,0.0
+103031,teriyaki potatoes,taste_mood_tags,5,0,0.0,0.0
+103031,teriyaki potatoes,occasion_tags,5,0,0.0,0.0
+103031,teriyaki potatoes,technique_tags,5,0,0.0,0.0
+103031,teriyaki potatoes,equipment_tags,5,0,0.0,0.0
+103031,teriyaki potatoes,Health_tags,5,0,0.0,0.0
+103031,teriyaki potatoes,specific_ingredients_tags,5,0,0.0,0.0
+54986,clay pot chicken in oyster sauce,time_tags,5,0,0.0,0.0
+54986,clay pot chicken in oyster sauce,course_tags,5,0,0.0,0.0
+54986,clay pot chicken in oyster sauce,cuisine_tags,5,0,0.0,0.0
+54986,clay pot chicken in oyster sauce,dietary_tags,5,0,0.0,0.0
+54986,clay pot chicken in oyster sauce,ingredient_tags,5,0,0.0,0.0
+54986,clay pot chicken in oyster sauce,taste_mood_tags,5,0,0.0,0.0
+54986,clay pot chicken in oyster sauce,occasion_tags,5,0,0.0,0.0
+54986,clay pot chicken in oyster sauce,technique_tags,5,0,0.0,0.0
+54986,clay pot chicken in oyster sauce,equipment_tags,5,0,0.0,0.0
+54986,clay pot chicken in oyster sauce,Health_tags,5,0,0.0,0.0
+54986,clay pot chicken in oyster sauce,specific_ingredients_tags,5,0,0.0,0.0
+135505,raspberry tapioca salad,time_tags,5,0,0.0,0.0
+135505,raspberry tapioca salad,course_tags,5,0,0.0,0.0
+135505,raspberry tapioca salad,cuisine_tags,5,0,0.0,0.0
+135505,raspberry tapioca salad,dietary_tags,5,0,0.0,0.0
+135505,raspberry tapioca salad,ingredient_tags,5,1,0.2,1.0
+135505,raspberry tapioca salad,taste_mood_tags,5,0,0.0,0.0
+135505,raspberry tapioca salad,occasion_tags,5,0,0.0,0.0
+135505,raspberry tapioca salad,technique_tags,5,0,0.0,0.0
+135505,raspberry tapioca salad,equipment_tags,5,1,0.2,1.0
+135505,raspberry tapioca salad,Health_tags,5,0,0.0,0.0
+135505,raspberry tapioca salad,specific_ingredients_tags,5,0,0.0,0.0
+478156,parsley  olive oil  and garlic sauce,time_tags,5,0,0.0,0.0
+478156,parsley  olive oil  and garlic sauce,course_tags,5,1,0.2,1.0
+478156,parsley  olive oil  and garlic sauce,cuisine_tags,5,0,0.0,0.0
+478156,parsley  olive oil  and garlic sauce,dietary_tags,5,0,0.0,0.0
+478156,parsley  olive oil  and garlic sauce,ingredient_tags,5,1,0.2,1.0
+478156,parsley  olive oil  and garlic sauce,taste_mood_tags,5,0,0.0,0.0
+478156,parsley  olive oil  and garlic sauce,occasion_tags,5,0,0.0,0.0
+478156,parsley  olive oil  and garlic sauce,technique_tags,5,0,0.0,0.0
+478156,parsley  olive oil  and garlic sauce,equipment_tags,5,0,0.0,0.0
+478156,parsley  olive oil  and garlic sauce,Health_tags,5,0,0.0,0.0
+478156,parsley  olive oil  and garlic sauce,specific_ingredients_tags,5,0,0.0,0.0
+46972,frozen kahlua cake,time_tags,5,0,0.0,0.0
+46972,frozen kahlua cake,course_tags,5,0,0.0,0.0
+46972,frozen kahlua cake,cuisine_tags,5,0,0.0,0.0
+46972,frozen kahlua cake,dietary_tags,5,1,0.2,1.0
+46972,frozen kahlua cake,ingredient_tags,5,0,0.0,0.0
+46972,frozen kahlua cake,taste_mood_tags,5,0,0.0,0.0
+46972,frozen kahlua cake,occasion_tags,5,0,0.0,0.0
+46972,frozen kahlua cake,technique_tags,5,1,0.2,1.0
+46972,frozen kahlua cake,equipment_tags,5,0,0.0,0.0
+46972,frozen kahlua cake,Health_tags,5,0,0.0,0.0
+46972,frozen kahlua cake,specific_ingredients_tags,5,0,0.0,0.0
+16437,annette funicello s peanut butter chocolate chip cookies,time_tags,5,0,0.0,0.0
+16437,annette funicello s peanut butter chocolate chip cookies,course_tags,5,1,0.2,0.9999999999999998
+16437,annette funicello s peanut butter chocolate chip cookies,cuisine_tags,5,0,0.0,0.0
+16437,annette funicello s peanut butter chocolate chip cookies,dietary_tags,5,0,0.0,0.0
+16437,annette funicello s peanut butter chocolate chip cookies,ingredient_tags,5,0,0.0,0.0
+16437,annette funicello s peanut butter chocolate chip cookies,taste_mood_tags,5,0,0.0,0.0
+16437,annette funicello s peanut butter chocolate chip cookies,occasion_tags,5,0,0.0,0.0
+16437,annette funicello s peanut butter chocolate chip cookies,technique_tags,5,1,0.2,1.0
+16437,annette funicello s peanut butter chocolate chip cookies,equipment_tags,5,0,0.0,0.0
+16437,annette funicello s peanut butter chocolate chip cookies,Health_tags,5,0,0.0,0.0
+16437,annette funicello s peanut butter chocolate chip cookies,specific_ingredients_tags,5,0,0.0,0.0
+121721,multigrain blueberry waffles  or pancakes,time_tags,5,0,0.0,0.0
+121721,multigrain blueberry waffles  or pancakes,course_tags,5,0,0.0,0.0
+121721,multigrain blueberry waffles  or pancakes,cuisine_tags,5,0,0.0,0.0
+121721,multigrain blueberry waffles  or pancakes,dietary_tags,5,0,0.0,0.0
+121721,multigrain blueberry waffles  or pancakes,ingredient_tags,5,0,0.0,0.0
+121721,multigrain blueberry waffles  or pancakes,taste_mood_tags,5,0,0.0,0.0
+121721,multigrain blueberry waffles  or pancakes,occasion_tags,5,0,0.0,0.0
+121721,multigrain blueberry waffles  or pancakes,technique_tags,5,0,0.0,0.0
+121721,multigrain blueberry waffles  or pancakes,equipment_tags,5,0,0.0,0.0
+121721,multigrain blueberry waffles  or pancakes,Health_tags,5,0,0.0,0.0
+121721,multigrain blueberry waffles  or pancakes,specific_ingredients_tags,5,0,0.0,0.0
+73887,blueberry banana oat muffins,time_tags,5,0,0.0,0.0
+73887,blueberry banana oat muffins,course_tags,5,0,0.0,0.0
+73887,blueberry banana oat muffins,cuisine_tags,5,0,0.0,0.0
+73887,blueberry banana oat muffins,dietary_tags,5,0,0.0,0.0
+73887,blueberry banana oat muffins,ingredient_tags,5,0,0.0,0.0
+73887,blueberry banana oat muffins,taste_mood_tags,5,0,0.0,0.0
+73887,blueberry banana oat muffins,occasion_tags,5,0,0.0,0.0
+73887,blueberry banana oat muffins,technique_tags,5,0,0.0,0.0
+73887,blueberry banana oat muffins,equipment_tags,5,0,0.0,0.0
+73887,blueberry banana oat muffins,Health_tags,5,0,0.0,0.0
+73887,blueberry banana oat muffins,specific_ingredients_tags,5,0,0.0,0.0
+318211,mashed potato casserole  perunasoselaatikko,time_tags,5,0,0.0,0.0
+318211,mashed potato casserole  perunasoselaatikko,course_tags,5,0,0.0,0.0
+318211,mashed potato casserole  perunasoselaatikko,cuisine_tags,5,0,0.0,0.0
+318211,mashed potato casserole  perunasoselaatikko,dietary_tags,5,1,0.2,1.0
+318211,mashed potato casserole  perunasoselaatikko,ingredient_tags,5,0,0.0,0.0
+318211,mashed potato casserole  perunasoselaatikko,taste_mood_tags,5,0,0.0,0.0
+318211,mashed potato casserole  perunasoselaatikko,occasion_tags,5,0,0.0,0.0
+318211,mashed potato casserole  perunasoselaatikko,technique_tags,5,0,0.0,0.0
+318211,mashed potato casserole  perunasoselaatikko,equipment_tags,5,0,0.0,0.0
+318211,mashed potato casserole  perunasoselaatikko,Health_tags,5,0,0.0,0.0
+318211,mashed potato casserole  perunasoselaatikko,specific_ingredients_tags,5,0,0.0,0.0
+149641,chocolate orange cream cheese pound cake,time_tags,5,0,0.0,0.0
+149641,chocolate orange cream cheese pound cake,course_tags,5,0,0.0,0.0
+149641,chocolate orange cream cheese pound cake,cuisine_tags,5,0,0.0,0.0
+149641,chocolate orange cream cheese pound cake,dietary_tags,5,1,0.2,1.0
+149641,chocolate orange cream cheese pound cake,ingredient_tags,5,0,0.0,0.0
+149641,chocolate orange cream cheese pound cake,taste_mood_tags,5,0,0.0,0.0
+149641,chocolate orange cream cheese pound cake,occasion_tags,5,0,0.0,0.0
+149641,chocolate orange cream cheese pound cake,technique_tags,5,0,0.0,0.0
+149641,chocolate orange cream cheese pound cake,equipment_tags,5,0,0.0,0.0
+149641,chocolate orange cream cheese pound cake,Health_tags,5,0,0.0,0.0
+149641,chocolate orange cream cheese pound cake,specific_ingredients_tags,5,1,0.2,1.0
+418322,brazilian lasagna,time_tags,5,0,0.0,0.0
+418322,brazilian lasagna,course_tags,5,0,0.0,0.0
+418322,brazilian lasagna,cuisine_tags,5,0,0.0,0.0
+418322,brazilian lasagna,dietary_tags,5,0,0.0,0.0
+418322,brazilian lasagna,ingredient_tags,5,0,0.0,0.0
+418322,brazilian lasagna,taste_mood_tags,5,0,0.0,0.0
+418322,brazilian lasagna,occasion_tags,5,0,0.0,0.0
+418322,brazilian lasagna,technique_tags,5,0,0.0,0.0
+418322,brazilian lasagna,equipment_tags,5,0,0.0,0.0
+418322,brazilian lasagna,Health_tags,5,0,0.0,0.0
+418322,brazilian lasagna,specific_ingredients_tags,5,0,0.0,0.0
+208445,gramma s old fashioned cinnamon sweet rolls,time_tags,5,0,0.0,0.0
+208445,gramma s old fashioned cinnamon sweet rolls,course_tags,5,0,0.0,0.0
+208445,gramma s old fashioned cinnamon sweet rolls,cuisine_tags,5,0,0.0,0.0
+208445,gramma s old fashioned cinnamon sweet rolls,dietary_tags,5,0,0.0,0.0
+208445,gramma s old fashioned cinnamon sweet rolls,ingredient_tags,5,0,0.0,0.0
+208445,gramma s old fashioned cinnamon sweet rolls,taste_mood_tags,5,0,0.0,0.0
+208445,gramma s old fashioned cinnamon sweet rolls,occasion_tags,5,1,0.2,1.0
+208445,gramma s old fashioned cinnamon sweet rolls,technique_tags,5,0,0.0,0.0
+208445,gramma s old fashioned cinnamon sweet rolls,equipment_tags,5,0,0.0,0.0
+208445,gramma s old fashioned cinnamon sweet rolls,Health_tags,5,0,0.0,0.0
+208445,gramma s old fashioned cinnamon sweet rolls,specific_ingredients_tags,5,0,0.0,0.0
+40463,perky olive penguins,time_tags,5,2,0.4,1.0
+40463,perky olive penguins,course_tags,5,1,0.2,1.0
+40463,perky olive penguins,cuisine_tags,5,0,0.0,0.0
+40463,perky olive penguins,dietary_tags,5,0,0.0,0.0
+40463,perky olive penguins,ingredient_tags,5,0,0.0,0.0
+40463,perky olive penguins,taste_mood_tags,5,1,0.2,1.0
+40463,perky olive penguins,occasion_tags,5,0,0.0,0.0
+40463,perky olive penguins,technique_tags,5,0,0.0,0.0
+40463,perky olive penguins,equipment_tags,5,0,0.0,0.0
+40463,perky olive penguins,Health_tags,5,0,0.0,0.0
+40463,perky olive penguins,specific_ingredients_tags,5,0,0.0,0.0
+63786,steak  or chicken  fajitas,time_tags,5,0,0.0,0.0
+63786,steak  or chicken  fajitas,course_tags,5,1,0.2,1.0
+63786,steak  or chicken  fajitas,cuisine_tags,5,3,0.6,0.9999999999999997
+63786,steak  or chicken  fajitas,dietary_tags,5,1,0.2,1.0
+63786,steak  or chicken  fajitas,ingredient_tags,5,0,0.0,0.0
+63786,steak  or chicken  fajitas,taste_mood_tags,5,1,0.2,1.0
+63786,steak  or chicken  fajitas,occasion_tags,5,0,0.0,0.0
+63786,steak  or chicken  fajitas,technique_tags,5,1,0.2,1.0
+63786,steak  or chicken  fajitas,equipment_tags,5,2,0.4,1.0
+63786,steak  or chicken  fajitas,Health_tags,5,3,0.6,0.9999999999999997
+63786,steak  or chicken  fajitas,specific_ingredients_tags,5,0,0.0,0.0
+308047,georgian cheese bread,time_tags,5,0,0.0,0.0
+308047,georgian cheese bread,course_tags,5,0,0.0,0.0
+308047,georgian cheese bread,cuisine_tags,5,0,0.0,0.0
+308047,georgian cheese bread,dietary_tags,5,0,0.0,0.0
+308047,georgian cheese bread,ingredient_tags,5,0,0.0,0.0
+308047,georgian cheese bread,taste_mood_tags,5,0,0.0,0.0
+308047,georgian cheese bread,occasion_tags,5,0,0.0,0.0
+308047,georgian cheese bread,technique_tags,5,0,0.0,0.0
+308047,georgian cheese bread,equipment_tags,5,0,0.0,0.0
+308047,georgian cheese bread,Health_tags,5,0,0.0,0.0
+308047,georgian cheese bread,specific_ingredients_tags,5,0,0.0,0.0
+17815,mucho bueno guacamole,time_tags,5,0,0.0,0.0
+17815,mucho bueno guacamole,course_tags,5,0,0.0,0.0
+17815,mucho bueno guacamole,cuisine_tags,5,0,0.0,0.0
+17815,mucho bueno guacamole,dietary_tags,5,0,0.0,0.0
+17815,mucho bueno guacamole,ingredient_tags,5,0,0.0,0.0
+17815,mucho bueno guacamole,taste_mood_tags,5,0,0.0,0.0
+17815,mucho bueno guacamole,occasion_tags,5,0,0.0,0.0
+17815,mucho bueno guacamole,technique_tags,5,0,0.0,0.0
+17815,mucho bueno guacamole,equipment_tags,5,0,0.0,0.0
+17815,mucho bueno guacamole,Health_tags,5,0,0.0,0.0
+17815,mucho bueno guacamole,specific_ingredients_tags,5,0,0.0,0.0
+246470,bad attitude,time_tags,5,0,0.0,0.0
+246470,bad attitude,course_tags,5,0,0.0,0.0
+246470,bad attitude,cuisine_tags,5,0,0.0,0.0
+246470,bad attitude,dietary_tags,5,0,0.0,0.0
+246470,bad attitude,ingredient_tags,5,0,0.0,0.0
+246470,bad attitude,taste_mood_tags,5,0,0.0,0.0
+246470,bad attitude,occasion_tags,5,0,0.0,0.0
+246470,bad attitude,technique_tags,5,0,0.0,0.0
+246470,bad attitude,equipment_tags,5,0,0.0,0.0
+246470,bad attitude,Health_tags,5,0,0.0,0.0
+246470,bad attitude,specific_ingredients_tags,5,0,0.0,0.0
+125138,texas dry rub,time_tags,5,0,0.0,0.0
+125138,texas dry rub,course_tags,5,0,0.0,0.0
+125138,texas dry rub,cuisine_tags,5,0,0.0,0.0
+125138,texas dry rub,dietary_tags,5,0,0.0,0.0
+125138,texas dry rub,ingredient_tags,5,0,0.0,0.0
+125138,texas dry rub,taste_mood_tags,5,0,0.0,0.0
+125138,texas dry rub,occasion_tags,5,0,0.0,0.0
+125138,texas dry rub,technique_tags,5,0,0.0,0.0
+125138,texas dry rub,equipment_tags,5,0,0.0,0.0
+125138,texas dry rub,Health_tags,5,0,0.0,0.0
+125138,texas dry rub,specific_ingredients_tags,5,0,0.0,0.0
+226144,grilled tandoori chicken pieces,time_tags,5,0,0.0,0.0
+226144,grilled tandoori chicken pieces,course_tags,5,1,0.2,1.0
+226144,grilled tandoori chicken pieces,cuisine_tags,5,0,0.0,0.0
+226144,grilled tandoori chicken pieces,dietary_tags,5,0,0.0,0.0
+226144,grilled tandoori chicken pieces,ingredient_tags,5,0,0.0,0.0
+226144,grilled tandoori chicken pieces,taste_mood_tags,5,0,0.0,0.0
+226144,grilled tandoori chicken pieces,occasion_tags,5,0,0.0,0.0
+226144,grilled tandoori chicken pieces,technique_tags,5,0,0.0,0.0
+226144,grilled tandoori chicken pieces,equipment_tags,5,0,0.0,0.0
+226144,grilled tandoori chicken pieces,Health_tags,5,1,0.2,1.0
+226144,grilled tandoori chicken pieces,specific_ingredients_tags,5,0,0.0,0.0
+106003,spaghetti sauce made with pork neck bone  italy 1870 1900,time_tags,5,0,0.0,0.0
+106003,spaghetti sauce made with pork neck bone  italy 1870 1900,course_tags,5,0,0.0,0.0
+106003,spaghetti sauce made with pork neck bone  italy 1870 1900,cuisine_tags,5,0,0.0,0.0
+106003,spaghetti sauce made with pork neck bone  italy 1870 1900,dietary_tags,5,0,0.0,0.0
+106003,spaghetti sauce made with pork neck bone  italy 1870 1900,ingredient_tags,5,0,0.0,0.0
+106003,spaghetti sauce made with pork neck bone  italy 1870 1900,taste_mood_tags,5,0,0.0,0.0
+106003,spaghetti sauce made with pork neck bone  italy 1870 1900,occasion_tags,5,0,0.0,0.0
+106003,spaghetti sauce made with pork neck bone  italy 1870 1900,technique_tags,5,0,0.0,0.0
+106003,spaghetti sauce made with pork neck bone  italy 1870 1900,equipment_tags,5,0,0.0,0.0
+106003,spaghetti sauce made with pork neck bone  italy 1870 1900,Health_tags,5,0,0.0,0.0
+106003,spaghetti sauce made with pork neck bone  italy 1870 1900,specific_ingredients_tags,5,0,0.0,0.0
+78225,delicious golden mustard pickles,time_tags,5,0,0.0,0.0
+78225,delicious golden mustard pickles,course_tags,5,0,0.0,0.0
+78225,delicious golden mustard pickles,cuisine_tags,5,0,0.0,0.0
+78225,delicious golden mustard pickles,dietary_tags,5,0,0.0,0.0
+78225,delicious golden mustard pickles,ingredient_tags,5,0,0.0,0.0
+78225,delicious golden mustard pickles,taste_mood_tags,5,0,0.0,0.0
+78225,delicious golden mustard pickles,occasion_tags,5,0,0.0,0.0
+78225,delicious golden mustard pickles,technique_tags,5,0,0.0,0.0
+78225,delicious golden mustard pickles,equipment_tags,5,0,0.0,0.0
+78225,delicious golden mustard pickles,Health_tags,5,0,0.0,0.0
+78225,delicious golden mustard pickles,specific_ingredients_tags,5,0,0.0,0.0
+98023,spicy chicken stir fry with basil,time_tags,5,0,0.0,0.0
+98023,spicy chicken stir fry with basil,course_tags,5,0,0.0,0.0
+98023,spicy chicken stir fry with basil,cuisine_tags,5,0,0.0,0.0
+98023,spicy chicken stir fry with basil,dietary_tags,5,0,0.0,0.0
+98023,spicy chicken stir fry with basil,ingredient_tags,5,0,0.0,0.0
+98023,spicy chicken stir fry with basil,taste_mood_tags,5,0,0.0,0.0
+98023,spicy chicken stir fry with basil,occasion_tags,5,1,0.2,1.0
+98023,spicy chicken stir fry with basil,technique_tags,5,0,0.0,0.0
+98023,spicy chicken stir fry with basil,equipment_tags,5,0,0.0,0.0
+98023,spicy chicken stir fry with basil,Health_tags,5,0,0.0,0.0
+98023,spicy chicken stir fry with basil,specific_ingredients_tags,5,0,0.0,0.0
+19038,corn dogs on a stick,time_tags,5,0,0.0,0.0
+19038,corn dogs on a stick,course_tags,5,0,0.0,0.0
+19038,corn dogs on a stick,cuisine_tags,5,0,0.0,0.0
+19038,corn dogs on a stick,dietary_tags,5,0,0.0,0.0
+19038,corn dogs on a stick,ingredient_tags,5,0,0.0,0.0
+19038,corn dogs on a stick,taste_mood_tags,5,0,0.0,0.0
+19038,corn dogs on a stick,occasion_tags,5,0,0.0,0.0
+19038,corn dogs on a stick,technique_tags,5,0,0.0,0.0
+19038,corn dogs on a stick,equipment_tags,5,0,0.0,0.0
+19038,corn dogs on a stick,Health_tags,5,0,0.0,0.0
+19038,corn dogs on a stick,specific_ingredients_tags,5,0,0.0,0.0
+452536,horseradish smashed potatoes  low fat,time_tags,5,1,0.2,1.0
+452536,horseradish smashed potatoes  low fat,course_tags,5,0,0.0,0.0
+452536,horseradish smashed potatoes  low fat,cuisine_tags,5,0,0.0,0.0
+452536,horseradish smashed potatoes  low fat,dietary_tags,5,0,0.0,0.0
+452536,horseradish smashed potatoes  low fat,ingredient_tags,5,0,0.0,0.0
+452536,horseradish smashed potatoes  low fat,taste_mood_tags,5,0,0.0,0.0
+452536,horseradish smashed potatoes  low fat,occasion_tags,5,0,0.0,0.0
+452536,horseradish smashed potatoes  low fat,technique_tags,5,0,0.0,0.0
+452536,horseradish smashed potatoes  low fat,equipment_tags,5,0,0.0,0.0
+452536,horseradish smashed potatoes  low fat,Health_tags,5,0,0.0,0.0
+452536,horseradish smashed potatoes  low fat,specific_ingredients_tags,5,0,0.0,0.0
+19193,salmon ball  spread,time_tags,5,0,0.0,0.0
+19193,salmon ball  spread,course_tags,5,0,0.0,0.0
+19193,salmon ball  spread,cuisine_tags,5,1,0.2,1.0
+19193,salmon ball  spread,dietary_tags,5,0,0.0,0.0
+19193,salmon ball  spread,ingredient_tags,5,1,0.2,0.9999999999999999
+19193,salmon ball  spread,taste_mood_tags,5,0,0.0,0.0
+19193,salmon ball  spread,occasion_tags,5,0,0.0,0.0
+19193,salmon ball  spread,technique_tags,5,0,0.0,0.0
+19193,salmon ball  spread,equipment_tags,5,0,0.0,0.0
+19193,salmon ball  spread,Health_tags,5,0,0.0,0.0
+19193,salmon ball  spread,specific_ingredients_tags,5,0,0.0,0.0
+69588,perogies casserole   meal in one,time_tags,5,0,0.0,0.0
+69588,perogies casserole   meal in one,course_tags,5,0,0.0,0.0
+69588,perogies casserole   meal in one,cuisine_tags,5,0,0.0,0.0
+69588,perogies casserole   meal in one,dietary_tags,5,0,0.0,0.0
+69588,perogies casserole   meal in one,ingredient_tags,5,0,0.0,0.0
+69588,perogies casserole   meal in one,taste_mood_tags,5,0,0.0,0.0
+69588,perogies casserole   meal in one,occasion_tags,5,0,0.0,0.0
+69588,perogies casserole   meal in one,technique_tags,5,0,0.0,0.0
+69588,perogies casserole   meal in one,equipment_tags,5,0,0.0,0.0
+69588,perogies casserole   meal in one,Health_tags,5,0,0.0,0.0
+69588,perogies casserole   meal in one,specific_ingredients_tags,5,0,0.0,0.0
+213213,easy caramel flan  creme caramel,time_tags,5,0,0.0,0.0
+213213,easy caramel flan  creme caramel,course_tags,5,0,0.0,0.0
+213213,easy caramel flan  creme caramel,cuisine_tags,5,0,0.0,0.0
+213213,easy caramel flan  creme caramel,dietary_tags,5,0,0.0,0.0
+213213,easy caramel flan  creme caramel,ingredient_tags,5,0,0.0,0.0
+213213,easy caramel flan  creme caramel,taste_mood_tags,5,0,0.0,0.0
+213213,easy caramel flan  creme caramel,occasion_tags,5,0,0.0,0.0
+213213,easy caramel flan  creme caramel,technique_tags,5,0,0.0,0.0
+213213,easy caramel flan  creme caramel,equipment_tags,5,0,0.0,0.0
+213213,easy caramel flan  creme caramel,Health_tags,5,0,0.0,0.0
+213213,easy caramel flan  creme caramel,specific_ingredients_tags,5,0,0.0,0.0
+40589,apple walnut bars,time_tags,5,0,0.0,0.0
+40589,apple walnut bars,course_tags,5,1,0.2,1.0
+40589,apple walnut bars,cuisine_tags,5,0,0.0,0.0
+40589,apple walnut bars,dietary_tags,5,0,0.0,0.0
+40589,apple walnut bars,ingredient_tags,5,0,0.0,0.0
+40589,apple walnut bars,taste_mood_tags,5,0,0.0,0.0
+40589,apple walnut bars,occasion_tags,5,0,0.0,0.0
+40589,apple walnut bars,technique_tags,5,0,0.0,0.0
+40589,apple walnut bars,equipment_tags,5,0,0.0,0.0
+40589,apple walnut bars,Health_tags,5,0,0.0,0.0
+40589,apple walnut bars,specific_ingredients_tags,5,0,0.0,0.0
+28726,lamb ragout,time_tags,5,0,0.0,0.0
+28726,lamb ragout,course_tags,5,2,0.4,0.9999999999999998
+28726,lamb ragout,cuisine_tags,5,0,0.0,0.0
+28726,lamb ragout,dietary_tags,5,0,0.0,0.0
+28726,lamb ragout,ingredient_tags,5,2,0.4,0.9999999999999998
+28726,lamb ragout,taste_mood_tags,5,1,0.2,1.0
+28726,lamb ragout,occasion_tags,5,0,0.0,0.0
+28726,lamb ragout,technique_tags,5,0,0.0,0.0
+28726,lamb ragout,equipment_tags,5,0,0.0,0.0
+28726,lamb ragout,Health_tags,5,0,0.0,0.0
+28726,lamb ragout,specific_ingredients_tags,5,0,0.0,0.0
+77399,spiced applesauce cupcakes,time_tags,5,0,0.0,0.0
+77399,spiced applesauce cupcakes,course_tags,5,1,0.2,1.0
+77399,spiced applesauce cupcakes,cuisine_tags,5,0,0.0,0.0
+77399,spiced applesauce cupcakes,dietary_tags,5,0,0.0,0.0
+77399,spiced applesauce cupcakes,ingredient_tags,5,0,0.0,0.0
+77399,spiced applesauce cupcakes,taste_mood_tags,5,0,0.0,0.0
+77399,spiced applesauce cupcakes,occasion_tags,5,0,0.0,0.0
+77399,spiced applesauce cupcakes,technique_tags,5,0,0.0,0.0
+77399,spiced applesauce cupcakes,equipment_tags,5,0,0.0,0.0
+77399,spiced applesauce cupcakes,Health_tags,5,0,0.0,0.0
+77399,spiced applesauce cupcakes,specific_ingredients_tags,5,0,0.0,0.0
+283011,spicy black bean spinach salad,time_tags,5,2,0.4,1.0
+283011,spicy black bean spinach salad,course_tags,5,0,0.0,0.0
+283011,spicy black bean spinach salad,cuisine_tags,5,0,0.0,0.0
+283011,spicy black bean spinach salad,dietary_tags,5,0,0.0,0.0
+283011,spicy black bean spinach salad,ingredient_tags,5,0,0.0,0.0
+283011,spicy black bean spinach salad,taste_mood_tags,5,0,0.0,0.0
+283011,spicy black bean spinach salad,occasion_tags,5,0,0.0,0.0
+283011,spicy black bean spinach salad,technique_tags,5,0,0.0,0.0
+283011,spicy black bean spinach salad,equipment_tags,5,0,0.0,0.0
+283011,spicy black bean spinach salad,Health_tags,5,0,0.0,0.0
+283011,spicy black bean spinach salad,specific_ingredients_tags,5,0,0.0,0.0
+106341,easy couscous salad,time_tags,5,0,0.0,0.0
+106341,easy couscous salad,course_tags,5,0,0.0,0.0
+106341,easy couscous salad,cuisine_tags,5,0,0.0,0.0
+106341,easy couscous salad,dietary_tags,5,0,0.0,0.0
+106341,easy couscous salad,ingredient_tags,5,0,0.0,0.0
+106341,easy couscous salad,taste_mood_tags,5,0,0.0,0.0
+106341,easy couscous salad,occasion_tags,5,0,0.0,0.0
+106341,easy couscous salad,technique_tags,5,0,0.0,0.0
+106341,easy couscous salad,equipment_tags,5,0,0.0,0.0
+106341,easy couscous salad,Health_tags,5,0,0.0,0.0
+106341,easy couscous salad,specific_ingredients_tags,5,0,0.0,0.0
+211329,new orleans style crabmeat salad,time_tags,5,0,0.0,0.0
+211329,new orleans style crabmeat salad,course_tags,5,0,0.0,0.0
+211329,new orleans style crabmeat salad,cuisine_tags,5,0,0.0,0.0
+211329,new orleans style crabmeat salad,dietary_tags,5,1,0.2,1.0
+211329,new orleans style crabmeat salad,ingredient_tags,5,0,0.0,0.0
+211329,new orleans style crabmeat salad,taste_mood_tags,5,0,0.0,0.0
+211329,new orleans style crabmeat salad,occasion_tags,5,0,0.0,0.0
+211329,new orleans style crabmeat salad,technique_tags,5,0,0.0,0.0
+211329,new orleans style crabmeat salad,equipment_tags,5,0,0.0,0.0
+211329,new orleans style crabmeat salad,Health_tags,5,1,0.2,1.0
+211329,new orleans style crabmeat salad,specific_ingredients_tags,5,0,0.0,0.0
+328936,cindy mccain s oatmeal butterscotch cookies,time_tags,5,0,0.0,0.0
+328936,cindy mccain s oatmeal butterscotch cookies,course_tags,5,0,0.0,0.0
+328936,cindy mccain s oatmeal butterscotch cookies,cuisine_tags,5,0,0.0,0.0
+328936,cindy mccain s oatmeal butterscotch cookies,dietary_tags,5,0,0.0,0.0
+328936,cindy mccain s oatmeal butterscotch cookies,ingredient_tags,5,0,0.0,0.0
+328936,cindy mccain s oatmeal butterscotch cookies,taste_mood_tags,5,0,0.0,0.0
+328936,cindy mccain s oatmeal butterscotch cookies,occasion_tags,5,0,0.0,0.0
+328936,cindy mccain s oatmeal butterscotch cookies,technique_tags,5,0,0.0,0.0
+328936,cindy mccain s oatmeal butterscotch cookies,equipment_tags,5,0,0.0,0.0
+328936,cindy mccain s oatmeal butterscotch cookies,Health_tags,5,0,0.0,0.0
+328936,cindy mccain s oatmeal butterscotch cookies,specific_ingredients_tags,5,0,0.0,0.0
+219370,shrimp   andouille sausage jambalaya,time_tags,5,1,0.2,1.0
+219370,shrimp   andouille sausage jambalaya,course_tags,5,0,0.0,0.0
+219370,shrimp   andouille sausage jambalaya,cuisine_tags,5,1,0.2,0.9999999999999998
+219370,shrimp   andouille sausage jambalaya,dietary_tags,5,0,0.0,0.0
+219370,shrimp   andouille sausage jambalaya,ingredient_tags,5,0,0.0,0.0
+219370,shrimp   andouille sausage jambalaya,taste_mood_tags,5,0,0.0,0.0
+219370,shrimp   andouille sausage jambalaya,occasion_tags,5,0,0.0,0.0
+219370,shrimp   andouille sausage jambalaya,technique_tags,5,0,0.0,0.0
+219370,shrimp   andouille sausage jambalaya,equipment_tags,5,0,0.0,0.0
+219370,shrimp   andouille sausage jambalaya,Health_tags,5,1,0.2,1.0
+219370,shrimp   andouille sausage jambalaya,specific_ingredients_tags,5,0,0.0,0.0
+392134,brown sugar cookies,time_tags,5,0,0.0,0.0
+392134,brown sugar cookies,course_tags,5,0,0.0,0.0
+392134,brown sugar cookies,cuisine_tags,5,0,0.0,0.0
+392134,brown sugar cookies,dietary_tags,5,0,0.0,0.0
+392134,brown sugar cookies,ingredient_tags,5,0,0.0,0.0
+392134,brown sugar cookies,taste_mood_tags,5,0,0.0,0.0
+392134,brown sugar cookies,occasion_tags,5,0,0.0,0.0
+392134,brown sugar cookies,technique_tags,5,0,0.0,0.0
+392134,brown sugar cookies,equipment_tags,5,0,0.0,0.0
+392134,brown sugar cookies,Health_tags,5,0,0.0,0.0
+392134,brown sugar cookies,specific_ingredients_tags,5,0,0.0,0.0
+263336,chocolate raspberry torte,time_tags,5,0,0.0,0.0
+263336,chocolate raspberry torte,course_tags,5,0,0.0,0.0
+263336,chocolate raspberry torte,cuisine_tags,5,0,0.0,0.0
+263336,chocolate raspberry torte,dietary_tags,5,0,0.0,0.0
+263336,chocolate raspberry torte,ingredient_tags,5,0,0.0,0.0
+263336,chocolate raspberry torte,taste_mood_tags,5,0,0.0,0.0
+263336,chocolate raspberry torte,occasion_tags,5,0,0.0,0.0
+263336,chocolate raspberry torte,technique_tags,5,0,0.0,0.0
+263336,chocolate raspberry torte,equipment_tags,5,0,0.0,0.0
+263336,chocolate raspberry torte,Health_tags,5,0,0.0,0.0
+263336,chocolate raspberry torte,specific_ingredients_tags,5,0,0.0,0.0
+215919,linda s baked crab rangoon,time_tags,5,0,0.0,0.0
+215919,linda s baked crab rangoon,course_tags,5,0,0.0,0.0
+215919,linda s baked crab rangoon,cuisine_tags,5,0,0.0,0.0
+215919,linda s baked crab rangoon,dietary_tags,5,1,0.2,1.0
+215919,linda s baked crab rangoon,ingredient_tags,5,0,0.0,0.0
+215919,linda s baked crab rangoon,taste_mood_tags,5,0,0.0,0.0
+215919,linda s baked crab rangoon,occasion_tags,5,0,0.0,0.0
+215919,linda s baked crab rangoon,technique_tags,5,0,0.0,0.0
+215919,linda s baked crab rangoon,equipment_tags,5,1,0.2,1.0
+215919,linda s baked crab rangoon,Health_tags,5,0,0.0,0.0
+215919,linda s baked crab rangoon,specific_ingredients_tags,5,0,0.0,0.0
+176952,raspberry dressing  vinaigrette   no added sugar,time_tags,5,0,0.0,0.0
+176952,raspberry dressing  vinaigrette   no added sugar,course_tags,5,3,0.6,1.0
+176952,raspberry dressing  vinaigrette   no added sugar,cuisine_tags,5,0,0.0,0.0
+176952,raspberry dressing  vinaigrette   no added sugar,dietary_tags,5,2,0.4,0.9999999999999998
+176952,raspberry dressing  vinaigrette   no added sugar,ingredient_tags,5,1,0.2,1.0
+176952,raspberry dressing  vinaigrette   no added sugar,taste_mood_tags,5,0,0.0,0.0
+176952,raspberry dressing  vinaigrette   no added sugar,occasion_tags,5,1,0.2,1.0
+176952,raspberry dressing  vinaigrette   no added sugar,technique_tags,5,2,0.4,1.0
+176952,raspberry dressing  vinaigrette   no added sugar,equipment_tags,5,1,0.2,1.0
+176952,raspberry dressing  vinaigrette   no added sugar,Health_tags,5,1,0.2,0.9999999999999994
+176952,raspberry dressing  vinaigrette   no added sugar,specific_ingredients_tags,5,1,0.2,1.0
+92566,breakfast peanut butter balls,time_tags,5,0,0.0,0.0
+92566,breakfast peanut butter balls,course_tags,5,1,0.2,1.0
+92566,breakfast peanut butter balls,cuisine_tags,5,0,0.0,0.0
+92566,breakfast peanut butter balls,dietary_tags,5,0,0.0,0.0
+92566,breakfast peanut butter balls,ingredient_tags,5,0,0.0,0.0
+92566,breakfast peanut butter balls,taste_mood_tags,5,0,0.0,0.0
+92566,breakfast peanut butter balls,occasion_tags,5,0,0.0,0.0
+92566,breakfast peanut butter balls,technique_tags,5,0,0.0,0.0
+92566,breakfast peanut butter balls,equipment_tags,5,0,0.0,0.0
+92566,breakfast peanut butter balls,Health_tags,5,0,0.0,0.0
+92566,breakfast peanut butter balls,specific_ingredients_tags,5,0,0.0,0.0
+170013,easy pizza hut breadsticks,time_tags,5,0,0.0,0.0
+170013,easy pizza hut breadsticks,course_tags,5,0,0.0,0.0
+170013,easy pizza hut breadsticks,cuisine_tags,5,0,0.0,0.0
+170013,easy pizza hut breadsticks,dietary_tags,5,1,0.2,1.0
+170013,easy pizza hut breadsticks,ingredient_tags,5,0,0.0,0.0
+170013,easy pizza hut breadsticks,taste_mood_tags,5,0,0.0,0.0
+170013,easy pizza hut breadsticks,occasion_tags,5,0,0.0,0.0
+170013,easy pizza hut breadsticks,technique_tags,5,1,0.2,1.0
+170013,easy pizza hut breadsticks,equipment_tags,5,0,0.0,0.0
+170013,easy pizza hut breadsticks,Health_tags,5,0,0.0,0.0
+170013,easy pizza hut breadsticks,specific_ingredients_tags,5,0,0.0,0.0
+460964,philly bacon wrapped chicken with fried green beans,time_tags,5,0,0.0,0.0
+460964,philly bacon wrapped chicken with fried green beans,course_tags,5,0,0.0,0.0
+460964,philly bacon wrapped chicken with fried green beans,cuisine_tags,5,0,0.0,0.0
+460964,philly bacon wrapped chicken with fried green beans,dietary_tags,5,1,0.2,1.0
+460964,philly bacon wrapped chicken with fried green beans,ingredient_tags,5,0,0.0,0.0
+460964,philly bacon wrapped chicken with fried green beans,taste_mood_tags,5,0,0.0,0.0
+460964,philly bacon wrapped chicken with fried green beans,occasion_tags,5,0,0.0,0.0
+460964,philly bacon wrapped chicken with fried green beans,technique_tags,5,0,0.0,0.0
+460964,philly bacon wrapped chicken with fried green beans,equipment_tags,5,0,0.0,0.0
+460964,philly bacon wrapped chicken with fried green beans,Health_tags,5,0,0.0,0.0
+460964,philly bacon wrapped chicken with fried green beans,specific_ingredients_tags,5,0,0.0,0.0
+372856,shrimp in coconut sauce,time_tags,5,0,0.0,0.0
+372856,shrimp in coconut sauce,course_tags,5,0,0.0,0.0
+372856,shrimp in coconut sauce,cuisine_tags,5,0,0.0,0.0
+372856,shrimp in coconut sauce,dietary_tags,5,0,0.0,0.0
+372856,shrimp in coconut sauce,ingredient_tags,5,0,0.0,0.0
+372856,shrimp in coconut sauce,taste_mood_tags,5,0,0.0,0.0
+372856,shrimp in coconut sauce,occasion_tags,5,0,0.0,0.0
+372856,shrimp in coconut sauce,technique_tags,5,0,0.0,0.0
+372856,shrimp in coconut sauce,equipment_tags,5,0,0.0,0.0
+372856,shrimp in coconut sauce,Health_tags,5,0,0.0,0.0
+372856,shrimp in coconut sauce,specific_ingredients_tags,5,0,0.0,0.0
+97243,beef stroganov  sauteed beef in sour cream sauce,time_tags,5,0,0.0,0.0
+97243,beef stroganov  sauteed beef in sour cream sauce,course_tags,5,0,0.0,0.0
+97243,beef stroganov  sauteed beef in sour cream sauce,cuisine_tags,5,0,0.0,0.0
+97243,beef stroganov  sauteed beef in sour cream sauce,dietary_tags,5,0,0.0,0.0
+97243,beef stroganov  sauteed beef in sour cream sauce,ingredient_tags,5,0,0.0,0.0
+97243,beef stroganov  sauteed beef in sour cream sauce,taste_mood_tags,5,0,0.0,0.0
+97243,beef stroganov  sauteed beef in sour cream sauce,occasion_tags,5,0,0.0,0.0
+97243,beef stroganov  sauteed beef in sour cream sauce,technique_tags,5,0,0.0,0.0
+97243,beef stroganov  sauteed beef in sour cream sauce,equipment_tags,5,1,0.2,1.0
+97243,beef stroganov  sauteed beef in sour cream sauce,Health_tags,5,0,0.0,0.0
+97243,beef stroganov  sauteed beef in sour cream sauce,specific_ingredients_tags,5,0,0.0,0.0
+187552,pseudo sourdough for the bread machine,time_tags,5,0,0.0,0.0
+187552,pseudo sourdough for the bread machine,course_tags,5,0,0.0,0.0
+187552,pseudo sourdough for the bread machine,cuisine_tags,5,0,0.0,0.0
+187552,pseudo sourdough for the bread machine,dietary_tags,5,1,0.2,0.9999999999999998
+187552,pseudo sourdough for the bread machine,ingredient_tags,5,0,0.0,0.0
+187552,pseudo sourdough for the bread machine,taste_mood_tags,5,0,0.0,0.0
+187552,pseudo sourdough for the bread machine,occasion_tags,5,0,0.0,0.0
+187552,pseudo sourdough for the bread machine,technique_tags,5,0,0.0,0.0
+187552,pseudo sourdough for the bread machine,equipment_tags,5,2,0.4,1.0
+187552,pseudo sourdough for the bread machine,Health_tags,5,0,0.0,0.0
+187552,pseudo sourdough for the bread machine,specific_ingredients_tags,5,0,0.0,0.0
+231275,cairns cooler  mocktail,time_tags,5,0,0.0,0.0
+231275,cairns cooler  mocktail,course_tags,5,0,0.0,0.0
+231275,cairns cooler  mocktail,cuisine_tags,5,0,0.0,0.0
+231275,cairns cooler  mocktail,dietary_tags,5,0,0.0,0.0
+231275,cairns cooler  mocktail,ingredient_tags,5,0,0.0,0.0
+231275,cairns cooler  mocktail,taste_mood_tags,5,0,0.0,0.0
+231275,cairns cooler  mocktail,occasion_tags,5,0,0.0,0.0
+231275,cairns cooler  mocktail,technique_tags,5,0,0.0,0.0
+231275,cairns cooler  mocktail,equipment_tags,5,0,0.0,0.0
+231275,cairns cooler  mocktail,Health_tags,5,0,0.0,0.0
+231275,cairns cooler  mocktail,specific_ingredients_tags,5,0,0.0,0.0
+207367,cider vinegar chicken,time_tags,5,0,0.0,0.0
+207367,cider vinegar chicken,course_tags,5,0,0.0,0.0
+207367,cider vinegar chicken,cuisine_tags,5,0,0.0,0.0
+207367,cider vinegar chicken,dietary_tags,5,0,0.0,0.0
+207367,cider vinegar chicken,ingredient_tags,5,0,0.0,0.0
+207367,cider vinegar chicken,taste_mood_tags,5,0,0.0,0.0
+207367,cider vinegar chicken,occasion_tags,5,0,0.0,0.0
+207367,cider vinegar chicken,technique_tags,5,0,0.0,0.0
+207367,cider vinegar chicken,equipment_tags,5,0,0.0,0.0
+207367,cider vinegar chicken,Health_tags,5,0,0.0,0.0
+207367,cider vinegar chicken,specific_ingredients_tags,5,0,0.0,0.0
+404112,basic home fries,time_tags,5,0,0.0,0.0
+404112,basic home fries,course_tags,5,1,0.2,1.0
+404112,basic home fries,cuisine_tags,5,1,0.2,0.9999999999999998
+404112,basic home fries,dietary_tags,5,0,0.0,0.0
+404112,basic home fries,ingredient_tags,5,0,0.0,0.0
+404112,basic home fries,taste_mood_tags,5,1,0.2,1.0
+404112,basic home fries,occasion_tags,5,0,0.0,0.0
+404112,basic home fries,technique_tags,5,0,0.0,0.0
+404112,basic home fries,equipment_tags,5,0,0.0,0.0
+404112,basic home fries,Health_tags,5,0,0.0,0.0
+404112,basic home fries,specific_ingredients_tags,5,2,0.4,0.9999999999999998
+9728,pork tenderloins asian style,time_tags,5,0,0.0,0.0
+9728,pork tenderloins asian style,course_tags,5,0,0.0,0.0
+9728,pork tenderloins asian style,cuisine_tags,5,0,0.0,0.0
+9728,pork tenderloins asian style,dietary_tags,5,0,0.0,0.0
+9728,pork tenderloins asian style,ingredient_tags,5,0,0.0,0.0
+9728,pork tenderloins asian style,taste_mood_tags,5,0,0.0,0.0
+9728,pork tenderloins asian style,occasion_tags,5,0,0.0,0.0
+9728,pork tenderloins asian style,technique_tags,5,0,0.0,0.0
+9728,pork tenderloins asian style,equipment_tags,5,0,0.0,0.0
+9728,pork tenderloins asian style,Health_tags,5,0,0.0,0.0
+9728,pork tenderloins asian style,specific_ingredients_tags,5,0,0.0,0.0
+119953,low carb pecan pie,time_tags,5,0,0.0,0.0
+119953,low carb pecan pie,course_tags,5,0,0.0,0.0
+119953,low carb pecan pie,cuisine_tags,5,1,0.2,1.0
+119953,low carb pecan pie,dietary_tags,5,0,0.0,0.0
+119953,low carb pecan pie,ingredient_tags,5,0,0.0,0.0
+119953,low carb pecan pie,taste_mood_tags,5,0,0.0,0.0
+119953,low carb pecan pie,occasion_tags,5,0,0.0,0.0
+119953,low carb pecan pie,technique_tags,5,0,0.0,0.0
+119953,low carb pecan pie,equipment_tags,5,0,0.0,0.0
+119953,low carb pecan pie,Health_tags,5,0,0.0,0.0
+119953,low carb pecan pie,specific_ingredients_tags,5,0,0.0,0.0
+263668,rich butter pecan cookies,time_tags,5,0,0.0,0.0
+263668,rich butter pecan cookies,course_tags,5,0,0.0,0.0
+263668,rich butter pecan cookies,cuisine_tags,5,0,0.0,0.0
+263668,rich butter pecan cookies,dietary_tags,5,0,0.0,0.0
+263668,rich butter pecan cookies,ingredient_tags,5,0,0.0,0.0
+263668,rich butter pecan cookies,taste_mood_tags,5,0,0.0,0.0
+263668,rich butter pecan cookies,occasion_tags,5,0,0.0,0.0
+263668,rich butter pecan cookies,technique_tags,5,0,0.0,0.0
+263668,rich butter pecan cookies,equipment_tags,5,0,0.0,0.0
+263668,rich butter pecan cookies,Health_tags,5,0,0.0,0.0
+263668,rich butter pecan cookies,specific_ingredients_tags,5,0,0.0,0.0
+229794,a very interesting smoked salmon sandwich,time_tags,5,1,0.2,1.0
+229794,a very interesting smoked salmon sandwich,course_tags,5,0,0.0,0.0
+229794,a very interesting smoked salmon sandwich,cuisine_tags,5,0,0.0,0.0
+229794,a very interesting smoked salmon sandwich,dietary_tags,5,1,0.2,1.0
+229794,a very interesting smoked salmon sandwich,ingredient_tags,5,0,0.0,0.0
+229794,a very interesting smoked salmon sandwich,taste_mood_tags,5,0,0.0,0.0
+229794,a very interesting smoked salmon sandwich,occasion_tags,5,1,0.2,1.0
+229794,a very interesting smoked salmon sandwich,technique_tags,5,0,0.0,0.0
+229794,a very interesting smoked salmon sandwich,equipment_tags,5,0,0.0,0.0
+229794,a very interesting smoked salmon sandwich,Health_tags,5,0,0.0,0.0
+229794,a very interesting smoked salmon sandwich,specific_ingredients_tags,5,0,0.0,0.0
+92840,raspberry and white chocolate waffle pudding,time_tags,5,0,0.0,0.0
+92840,raspberry and white chocolate waffle pudding,course_tags,5,0,0.0,0.0
+92840,raspberry and white chocolate waffle pudding,cuisine_tags,5,0,0.0,0.0
+92840,raspberry and white chocolate waffle pudding,dietary_tags,5,0,0.0,0.0
+92840,raspberry and white chocolate waffle pudding,ingredient_tags,5,0,0.0,0.0
+92840,raspberry and white chocolate waffle pudding,taste_mood_tags,5,0,0.0,0.0
+92840,raspberry and white chocolate waffle pudding,occasion_tags,5,0,0.0,0.0
+92840,raspberry and white chocolate waffle pudding,technique_tags,5,0,0.0,0.0
+92840,raspberry and white chocolate waffle pudding,equipment_tags,5,0,0.0,0.0
+92840,raspberry and white chocolate waffle pudding,Health_tags,5,0,0.0,0.0
+92840,raspberry and white chocolate waffle pudding,specific_ingredients_tags,5,0,0.0,0.0
+382730,fried sumac eggs,time_tags,5,1,0.2,1.0
+382730,fried sumac eggs,course_tags,5,0,0.0,0.0
+382730,fried sumac eggs,cuisine_tags,5,3,0.6,0.9999999999999997
+382730,fried sumac eggs,dietary_tags,5,1,0.2,1.0
+382730,fried sumac eggs,ingredient_tags,5,0,0.0,0.0
+382730,fried sumac eggs,taste_mood_tags,5,1,0.2,1.0
+382730,fried sumac eggs,occasion_tags,5,2,0.4,1.0
+382730,fried sumac eggs,technique_tags,5,0,0.0,0.0
+382730,fried sumac eggs,equipment_tags,5,0,0.0,0.0
+382730,fried sumac eggs,Health_tags,5,0,0.0,0.0
+382730,fried sumac eggs,specific_ingredients_tags,5,0,0.0,0.0
+77217,whipped cream pie,time_tags,5,0,0.0,0.0
+77217,whipped cream pie,course_tags,5,0,0.0,0.0
+77217,whipped cream pie,cuisine_tags,5,0,0.0,0.0
+77217,whipped cream pie,dietary_tags,5,0,0.0,0.0
+77217,whipped cream pie,ingredient_tags,5,0,0.0,0.0
+77217,whipped cream pie,taste_mood_tags,5,0,0.0,0.0
+77217,whipped cream pie,occasion_tags,5,1,0.2,1.0
+77217,whipped cream pie,technique_tags,5,0,0.0,0.0
+77217,whipped cream pie,equipment_tags,5,0,0.0,0.0
+77217,whipped cream pie,Health_tags,5,0,0.0,0.0
+77217,whipped cream pie,specific_ingredients_tags,5,0,0.0,0.0
+47670,lancaster county  amish cornmeal mush,time_tags,5,0,0.0,0.0
+47670,lancaster county  amish cornmeal mush,course_tags,5,0,0.0,0.0
+47670,lancaster county  amish cornmeal mush,cuisine_tags,5,0,0.0,0.0
+47670,lancaster county  amish cornmeal mush,dietary_tags,5,0,0.0,0.0
+47670,lancaster county  amish cornmeal mush,ingredient_tags,5,0,0.0,0.0
+47670,lancaster county  amish cornmeal mush,taste_mood_tags,5,0,0.0,0.0
+47670,lancaster county  amish cornmeal mush,occasion_tags,5,1,0.2,1.0
+47670,lancaster county  amish cornmeal mush,technique_tags,5,0,0.0,0.0
+47670,lancaster county  amish cornmeal mush,equipment_tags,5,0,0.0,0.0
+47670,lancaster county  amish cornmeal mush,Health_tags,5,0,0.0,0.0
+47670,lancaster county  amish cornmeal mush,specific_ingredients_tags,5,1,0.2,1.0
+31426,frito chili casserole,time_tags,5,0,0.0,0.0
+31426,frito chili casserole,course_tags,5,0,0.0,0.0
+31426,frito chili casserole,cuisine_tags,5,0,0.0,0.0
+31426,frito chili casserole,dietary_tags,5,0,0.0,0.0
+31426,frito chili casserole,ingredient_tags,5,0,0.0,0.0
+31426,frito chili casserole,taste_mood_tags,5,0,0.0,0.0
+31426,frito chili casserole,occasion_tags,5,0,0.0,0.0
+31426,frito chili casserole,technique_tags,5,0,0.0,0.0
+31426,frito chili casserole,equipment_tags,5,0,0.0,0.0
+31426,frito chili casserole,Health_tags,5,0,0.0,0.0
+31426,frito chili casserole,specific_ingredients_tags,5,0,0.0,0.0
+310062,chicken thighs in a mango curry marinade,time_tags,5,0,0.0,0.0
+310062,chicken thighs in a mango curry marinade,course_tags,5,0,0.0,0.0
+310062,chicken thighs in a mango curry marinade,cuisine_tags,5,0,0.0,0.0
+310062,chicken thighs in a mango curry marinade,dietary_tags,5,0,0.0,0.0
+310062,chicken thighs in a mango curry marinade,ingredient_tags,5,0,0.0,0.0
+310062,chicken thighs in a mango curry marinade,taste_mood_tags,5,0,0.0,0.0
+310062,chicken thighs in a mango curry marinade,occasion_tags,5,0,0.0,0.0
+310062,chicken thighs in a mango curry marinade,technique_tags,5,0,0.0,0.0
+310062,chicken thighs in a mango curry marinade,equipment_tags,5,0,0.0,0.0
+310062,chicken thighs in a mango curry marinade,Health_tags,5,0,0.0,0.0
+310062,chicken thighs in a mango curry marinade,specific_ingredients_tags,5,0,0.0,0.0
+39751,nutty white chocolate chunk cookies,time_tags,5,0,0.0,0.0
+39751,nutty white chocolate chunk cookies,course_tags,5,0,0.0,0.0
+39751,nutty white chocolate chunk cookies,cuisine_tags,5,0,0.0,0.0
+39751,nutty white chocolate chunk cookies,dietary_tags,5,0,0.0,0.0
+39751,nutty white chocolate chunk cookies,ingredient_tags,5,0,0.0,0.0
+39751,nutty white chocolate chunk cookies,taste_mood_tags,5,0,0.0,0.0
+39751,nutty white chocolate chunk cookies,occasion_tags,5,0,0.0,0.0
+39751,nutty white chocolate chunk cookies,technique_tags,5,0,0.0,0.0
+39751,nutty white chocolate chunk cookies,equipment_tags,5,0,0.0,0.0
+39751,nutty white chocolate chunk cookies,Health_tags,5,0,0.0,0.0
+39751,nutty white chocolate chunk cookies,specific_ingredients_tags,5,0,0.0,0.0
+249398,roasted vegetable meatloaf with balsamic glaze   bobby flay,time_tags,5,0,0.0,0.0
+249398,roasted vegetable meatloaf with balsamic glaze   bobby flay,course_tags,5,0,0.0,0.0
+249398,roasted vegetable meatloaf with balsamic glaze   bobby flay,cuisine_tags,5,0,0.0,0.0
+249398,roasted vegetable meatloaf with balsamic glaze   bobby flay,dietary_tags,5,0,0.0,0.0
+249398,roasted vegetable meatloaf with balsamic glaze   bobby flay,ingredient_tags,5,0,0.0,0.0
+249398,roasted vegetable meatloaf with balsamic glaze   bobby flay,taste_mood_tags,5,0,0.0,0.0
+249398,roasted vegetable meatloaf with balsamic glaze   bobby flay,occasion_tags,5,0,0.0,0.0
+249398,roasted vegetable meatloaf with balsamic glaze   bobby flay,technique_tags,5,0,0.0,0.0
+249398,roasted vegetable meatloaf with balsamic glaze   bobby flay,equipment_tags,5,0,0.0,0.0
+249398,roasted vegetable meatloaf with balsamic glaze   bobby flay,Health_tags,5,0,0.0,0.0
+249398,roasted vegetable meatloaf with balsamic glaze   bobby flay,specific_ingredients_tags,5,0,0.0,0.0
+383779,orange crunch cake from the bubble room,time_tags,5,0,0.0,0.0
+383779,orange crunch cake from the bubble room,course_tags,5,1,0.2,0.9999999999999998
+383779,orange crunch cake from the bubble room,cuisine_tags,5,0,0.0,0.0
+383779,orange crunch cake from the bubble room,dietary_tags,5,0,0.0,0.0
+383779,orange crunch cake from the bubble room,ingredient_tags,5,0,0.0,0.0
+383779,orange crunch cake from the bubble room,taste_mood_tags,5,1,0.2,0.9999999999999998
+383779,orange crunch cake from the bubble room,occasion_tags,5,0,0.0,0.0
+383779,orange crunch cake from the bubble room,technique_tags,5,0,0.0,0.0
+383779,orange crunch cake from the bubble room,equipment_tags,5,0,0.0,0.0
+383779,orange crunch cake from the bubble room,Health_tags,5,0,0.0,0.0
+383779,orange crunch cake from the bubble room,specific_ingredients_tags,5,0,0.0,0.0
+22363,baked chicken and dressing,time_tags,5,0,0.0,0.0
+22363,baked chicken and dressing,course_tags,5,0,0.0,0.0
+22363,baked chicken and dressing,cuisine_tags,5,1,0.2,1.0
+22363,baked chicken and dressing,dietary_tags,5,2,0.4,1.0
+22363,baked chicken and dressing,ingredient_tags,5,0,0.0,0.0
+22363,baked chicken and dressing,taste_mood_tags,5,0,0.0,0.0
+22363,baked chicken and dressing,occasion_tags,5,0,0.0,0.0
+22363,baked chicken and dressing,technique_tags,5,0,0.0,0.0
+22363,baked chicken and dressing,equipment_tags,5,1,0.2,1.0
+22363,baked chicken and dressing,Health_tags,5,0,0.0,0.0
+22363,baked chicken and dressing,specific_ingredients_tags,5,0,0.0,0.0
+165429,bistro style  beef steak sandwich,time_tags,5,0,0.0,0.0
+165429,bistro style  beef steak sandwich,course_tags,5,0,0.0,0.0
+165429,bistro style  beef steak sandwich,cuisine_tags,5,1,0.2,1.0
+165429,bistro style  beef steak sandwich,dietary_tags,5,0,0.0,0.0
+165429,bistro style  beef steak sandwich,ingredient_tags,5,0,0.0,0.0
+165429,bistro style  beef steak sandwich,taste_mood_tags,5,0,0.0,0.0
+165429,bistro style  beef steak sandwich,occasion_tags,5,1,0.2,1.0
+165429,bistro style  beef steak sandwich,technique_tags,5,0,0.0,0.0
+165429,bistro style  beef steak sandwich,equipment_tags,5,0,0.0,0.0
+165429,bistro style  beef steak sandwich,Health_tags,5,1,0.2,1.0
+165429,bistro style  beef steak sandwich,specific_ingredients_tags,5,0,0.0,0.0
+26882,cinnamon cream cheese roll ups,time_tags,5,0,0.0,0.0
+26882,cinnamon cream cheese roll ups,course_tags,5,0,0.0,0.0
+26882,cinnamon cream cheese roll ups,cuisine_tags,5,1,0.2,0.9999999999999998
+26882,cinnamon cream cheese roll ups,dietary_tags,5,1,0.2,1.0
+26882,cinnamon cream cheese roll ups,ingredient_tags,5,0,0.0,0.0
+26882,cinnamon cream cheese roll ups,taste_mood_tags,5,0,0.0,0.0
+26882,cinnamon cream cheese roll ups,occasion_tags,5,0,0.0,0.0
+26882,cinnamon cream cheese roll ups,technique_tags,5,1,0.2,1.0
+26882,cinnamon cream cheese roll ups,equipment_tags,5,0,0.0,0.0
+26882,cinnamon cream cheese roll ups,Health_tags,5,0,0.0,0.0
+26882,cinnamon cream cheese roll ups,specific_ingredients_tags,5,0,0.0,0.0
+171057,greek olive and asparagus saute,time_tags,5,2,0.4,1.0
+171057,greek olive and asparagus saute,course_tags,5,1,0.2,0.9999999999999998
+171057,greek olive and asparagus saute,cuisine_tags,5,0,0.0,0.0
+171057,greek olive and asparagus saute,dietary_tags,5,0,0.0,0.0
+171057,greek olive and asparagus saute,ingredient_tags,5,0,0.0,0.0
+171057,greek olive and asparagus saute,taste_mood_tags,5,0,0.0,0.0
+171057,greek olive and asparagus saute,occasion_tags,5,1,0.2,1.0
+171057,greek olive and asparagus saute,technique_tags,5,0,0.0,0.0
+171057,greek olive and asparagus saute,equipment_tags,5,1,0.2,1.0
+171057,greek olive and asparagus saute,Health_tags,5,0,0.0,0.0
+171057,greek olive and asparagus saute,specific_ingredients_tags,5,0,0.0,0.0
+386706,creole tomato soup  low fat,time_tags,5,0,0.0,0.0
+386706,creole tomato soup  low fat,course_tags,5,0,0.0,0.0
+386706,creole tomato soup  low fat,cuisine_tags,5,2,0.4,0.9999999999999998
+386706,creole tomato soup  low fat,dietary_tags,5,1,0.2,1.0
+386706,creole tomato soup  low fat,ingredient_tags,5,0,0.0,0.0
+386706,creole tomato soup  low fat,taste_mood_tags,5,0,0.0,0.0
+386706,creole tomato soup  low fat,occasion_tags,5,1,0.2,1.0
+386706,creole tomato soup  low fat,technique_tags,5,1,0.2,1.0
+386706,creole tomato soup  low fat,equipment_tags,5,0,0.0,0.0
+386706,creole tomato soup  low fat,Health_tags,5,1,0.2,1.0
+386706,creole tomato soup  low fat,specific_ingredients_tags,5,0,0.0,0.0
+243155,absolute heaven,time_tags,5,0,0.0,0.0
+243155,absolute heaven,course_tags,5,0,0.0,0.0
+243155,absolute heaven,cuisine_tags,5,0,0.0,0.0
+243155,absolute heaven,dietary_tags,5,1,0.2,0.9999999999999999
+243155,absolute heaven,ingredient_tags,5,0,0.0,0.0
+243155,absolute heaven,taste_mood_tags,5,1,0.2,1.0
+243155,absolute heaven,occasion_tags,5,1,0.2,1.0
+243155,absolute heaven,technique_tags,5,0,0.0,0.0
+243155,absolute heaven,equipment_tags,5,0,0.0,0.0
+243155,absolute heaven,Health_tags,5,2,0.4,1.0
+243155,absolute heaven,specific_ingredients_tags,5,0,0.0,0.0
+60589,pumpkin fruit scones,time_tags,5,0,0.0,0.0
+60589,pumpkin fruit scones,course_tags,5,0,0.0,0.0
+60589,pumpkin fruit scones,cuisine_tags,5,0,0.0,0.0
+60589,pumpkin fruit scones,dietary_tags,5,0,0.0,0.0
+60589,pumpkin fruit scones,ingredient_tags,5,0,0.0,0.0
+60589,pumpkin fruit scones,taste_mood_tags,5,0,0.0,0.0
+60589,pumpkin fruit scones,occasion_tags,5,1,0.2,0.9999999999999998
+60589,pumpkin fruit scones,technique_tags,5,0,0.0,0.0
+60589,pumpkin fruit scones,equipment_tags,5,0,0.0,0.0
+60589,pumpkin fruit scones,Health_tags,5,0,0.0,0.0
+60589,pumpkin fruit scones,specific_ingredients_tags,5,0,0.0,0.0
+141627,marinated greek feta,time_tags,5,1,0.2,1.0
+141627,marinated greek feta,course_tags,5,0,0.0,0.0
+141627,marinated greek feta,cuisine_tags,5,0,0.0,0.0
+141627,marinated greek feta,dietary_tags,5,1,0.2,1.0
+141627,marinated greek feta,ingredient_tags,5,1,0.2,0.9999999999999998
+141627,marinated greek feta,taste_mood_tags,5,0,0.0,0.0
+141627,marinated greek feta,occasion_tags,5,1,0.2,0.9999999999999998
+141627,marinated greek feta,technique_tags,5,1,0.2,1.0
+141627,marinated greek feta,equipment_tags,5,2,0.4,1.0
+141627,marinated greek feta,Health_tags,5,0,0.0,0.0
+141627,marinated greek feta,specific_ingredients_tags,5,0,0.0,0.0
+229194,taco red potato salad,time_tags,5,0,0.0,0.0
+229194,taco red potato salad,course_tags,5,0,0.0,0.0
+229194,taco red potato salad,cuisine_tags,5,0,0.0,0.0
+229194,taco red potato salad,dietary_tags,5,0,0.0,0.0
+229194,taco red potato salad,ingredient_tags,5,0,0.0,0.0
+229194,taco red potato salad,taste_mood_tags,5,0,0.0,0.0
+229194,taco red potato salad,occasion_tags,5,0,0.0,0.0
+229194,taco red potato salad,technique_tags,5,0,0.0,0.0
+229194,taco red potato salad,equipment_tags,5,0,0.0,0.0
+229194,taco red potato salad,Health_tags,5,0,0.0,0.0
+229194,taco red potato salad,specific_ingredients_tags,5,1,0.2,1.0
+385354,sizzled green beans with crispy prosciutto and pine nuts,time_tags,5,0,0.0,0.0
+385354,sizzled green beans with crispy prosciutto and pine nuts,course_tags,5,1,0.2,0.9999999999999998
+385354,sizzled green beans with crispy prosciutto and pine nuts,cuisine_tags,5,0,0.0,0.0
+385354,sizzled green beans with crispy prosciutto and pine nuts,dietary_tags,5,0,0.0,0.0
+385354,sizzled green beans with crispy prosciutto and pine nuts,ingredient_tags,5,0,0.0,0.0
+385354,sizzled green beans with crispy prosciutto and pine nuts,taste_mood_tags,5,0,0.0,0.0
+385354,sizzled green beans with crispy prosciutto and pine nuts,occasion_tags,5,0,0.0,0.0
+385354,sizzled green beans with crispy prosciutto and pine nuts,technique_tags,5,0,0.0,0.0
+385354,sizzled green beans with crispy prosciutto and pine nuts,equipment_tags,5,0,0.0,0.0
+385354,sizzled green beans with crispy prosciutto and pine nuts,Health_tags,5,0,0.0,0.0
+385354,sizzled green beans with crispy prosciutto and pine nuts,specific_ingredients_tags,5,0,0.0,0.0
+110964,bubelah,time_tags,5,0,0.0,0.0
+110964,bubelah,course_tags,5,0,0.0,0.0
+110964,bubelah,cuisine_tags,5,0,0.0,0.0
+110964,bubelah,dietary_tags,5,0,0.0,0.0
+110964,bubelah,ingredient_tags,5,0,0.0,0.0
+110964,bubelah,taste_mood_tags,5,0,0.0,0.0
+110964,bubelah,occasion_tags,5,0,0.0,0.0
+110964,bubelah,technique_tags,5,0,0.0,0.0
+110964,bubelah,equipment_tags,5,0,0.0,0.0
+110964,bubelah,Health_tags,5,0,0.0,0.0
+110964,bubelah,specific_ingredients_tags,5,0,0.0,0.0
+102262,garlic white lasagna,time_tags,5,0,0.0,0.0
+102262,garlic white lasagna,course_tags,5,0,0.0,0.0
+102262,garlic white lasagna,cuisine_tags,5,0,0.0,0.0
+102262,garlic white lasagna,dietary_tags,5,0,0.0,0.0
+102262,garlic white lasagna,ingredient_tags,5,0,0.0,0.0
+102262,garlic white lasagna,taste_mood_tags,5,0,0.0,0.0
+102262,garlic white lasagna,occasion_tags,5,0,0.0,0.0
+102262,garlic white lasagna,technique_tags,5,0,0.0,0.0
+102262,garlic white lasagna,equipment_tags,5,0,0.0,0.0
+102262,garlic white lasagna,Health_tags,5,0,0.0,0.0
+102262,garlic white lasagna,specific_ingredients_tags,5,0,0.0,0.0
+24775,coffee syrup,time_tags,5,0,0.0,0.0
+24775,coffee syrup,course_tags,5,0,0.0,0.0
+24775,coffee syrup,cuisine_tags,5,0,0.0,0.0
+24775,coffee syrup,dietary_tags,5,0,0.0,0.0
+24775,coffee syrup,ingredient_tags,5,0,0.0,0.0
+24775,coffee syrup,taste_mood_tags,5,1,0.2,1.0
+24775,coffee syrup,occasion_tags,5,0,0.0,0.0
+24775,coffee syrup,technique_tags,5,1,0.2,1.0
+24775,coffee syrup,equipment_tags,5,1,0.2,1.0
+24775,coffee syrup,Health_tags,5,0,0.0,0.0
+24775,coffee syrup,specific_ingredients_tags,5,0,0.0,0.0
+167556,pork tenderloin with sweet and tangy sauce,time_tags,5,0,0.0,0.0
+167556,pork tenderloin with sweet and tangy sauce,course_tags,5,0,0.0,0.0
+167556,pork tenderloin with sweet and tangy sauce,cuisine_tags,5,0,0.0,0.0
+167556,pork tenderloin with sweet and tangy sauce,dietary_tags,5,2,0.4,1.0
+167556,pork tenderloin with sweet and tangy sauce,ingredient_tags,5,0,0.0,0.0
+167556,pork tenderloin with sweet and tangy sauce,taste_mood_tags,5,0,0.0,0.0
+167556,pork tenderloin with sweet and tangy sauce,occasion_tags,5,0,0.0,0.0
+167556,pork tenderloin with sweet and tangy sauce,technique_tags,5,1,0.2,0.9999999999999998
+167556,pork tenderloin with sweet and tangy sauce,equipment_tags,5,0,0.0,0.0
+167556,pork tenderloin with sweet and tangy sauce,Health_tags,5,0,0.0,0.0
+167556,pork tenderloin with sweet and tangy sauce,specific_ingredients_tags,5,0,0.0,0.0
+346202,little grandma s easy curry,time_tags,5,0,0.0,0.0
+346202,little grandma s easy curry,course_tags,5,0,0.0,0.0
+346202,little grandma s easy curry,cuisine_tags,5,0,0.0,0.0
+346202,little grandma s easy curry,dietary_tags,5,0,0.0,0.0
+346202,little grandma s easy curry,ingredient_tags,5,0,0.0,0.0
+346202,little grandma s easy curry,taste_mood_tags,5,0,0.0,0.0
+346202,little grandma s easy curry,occasion_tags,5,0,0.0,0.0
+346202,little grandma s easy curry,technique_tags,5,0,0.0,0.0
+346202,little grandma s easy curry,equipment_tags,5,0,0.0,0.0
+346202,little grandma s easy curry,Health_tags,5,0,0.0,0.0
+346202,little grandma s easy curry,specific_ingredients_tags,5,0,0.0,0.0
+224376,alfredo crab dip,time_tags,5,0,0.0,0.0
+224376,alfredo crab dip,course_tags,5,0,0.0,0.0
+224376,alfredo crab dip,cuisine_tags,5,0,0.0,0.0
+224376,alfredo crab dip,dietary_tags,5,0,0.0,0.0
+224376,alfredo crab dip,ingredient_tags,5,0,0.0,0.0
+224376,alfredo crab dip,taste_mood_tags,5,0,0.0,0.0
+224376,alfredo crab dip,occasion_tags,5,0,0.0,0.0
+224376,alfredo crab dip,technique_tags,5,0,0.0,0.0
+224376,alfredo crab dip,equipment_tags,5,0,0.0,0.0
+224376,alfredo crab dip,Health_tags,5,0,0.0,0.0
+224376,alfredo crab dip,specific_ingredients_tags,5,0,0.0,0.0
+126232,chicken lime taquitos,time_tags,5,0,0.0,0.0
+126232,chicken lime taquitos,course_tags,5,1,0.2,1.0
+126232,chicken lime taquitos,cuisine_tags,5,1,0.2,0.9999999999999998
+126232,chicken lime taquitos,dietary_tags,5,2,0.4,1.0
+126232,chicken lime taquitos,ingredient_tags,5,1,0.2,1.0
+126232,chicken lime taquitos,taste_mood_tags,5,0,0.0,0.0
+126232,chicken lime taquitos,occasion_tags,5,2,0.4,1.0
+126232,chicken lime taquitos,technique_tags,5,0,0.0,0.0
+126232,chicken lime taquitos,equipment_tags,5,0,0.0,0.0
+126232,chicken lime taquitos,Health_tags,5,0,0.0,0.0
+126232,chicken lime taquitos,specific_ingredients_tags,5,0,0.0,0.0
+320093,layered eggplant parmesan  vegetarian,time_tags,5,0,0.0,0.0
+320093,layered eggplant parmesan  vegetarian,course_tags,5,0,0.0,0.0
+320093,layered eggplant parmesan  vegetarian,cuisine_tags,5,1,0.2,1.0
+320093,layered eggplant parmesan  vegetarian,dietary_tags,5,0,0.0,0.0
+320093,layered eggplant parmesan  vegetarian,ingredient_tags,5,0,0.0,0.0
+320093,layered eggplant parmesan  vegetarian,taste_mood_tags,5,0,0.0,0.0
+320093,layered eggplant parmesan  vegetarian,occasion_tags,5,0,0.0,0.0
+320093,layered eggplant parmesan  vegetarian,technique_tags,5,0,0.0,0.0
+320093,layered eggplant parmesan  vegetarian,equipment_tags,5,1,0.2,1.0
+320093,layered eggplant parmesan  vegetarian,Health_tags,5,0,0.0,0.0
+320093,layered eggplant parmesan  vegetarian,specific_ingredients_tags,5,0,0.0,0.0
+169648,absolut peach zest,time_tags,5,0,0.0,0.0
+169648,absolut peach zest,course_tags,5,2,0.4,0.9999999999999998
+169648,absolut peach zest,cuisine_tags,5,0,0.0,0.0
+169648,absolut peach zest,dietary_tags,5,1,0.2,0.9999999999999999
+169648,absolut peach zest,ingredient_tags,5,0,0.0,0.0
+169648,absolut peach zest,taste_mood_tags,5,1,0.2,0.9999999999999998
+169648,absolut peach zest,occasion_tags,5,0,0.0,0.0
+169648,absolut peach zest,technique_tags,5,0,0.0,0.0
+169648,absolut peach zest,equipment_tags,5,0,0.0,0.0
+169648,absolut peach zest,Health_tags,5,1,0.2,1.0
+169648,absolut peach zest,specific_ingredients_tags,5,0,0.0,0.0
+113002,curried butternut squash   apple soup   crock pot,time_tags,5,0,0.0,0.0
+113002,curried butternut squash   apple soup   crock pot,course_tags,5,0,0.0,0.0
+113002,curried butternut squash   apple soup   crock pot,cuisine_tags,5,0,0.0,0.0
+113002,curried butternut squash   apple soup   crock pot,dietary_tags,5,0,0.0,0.0
+113002,curried butternut squash   apple soup   crock pot,ingredient_tags,5,0,0.0,0.0
+113002,curried butternut squash   apple soup   crock pot,taste_mood_tags,5,0,0.0,0.0
+113002,curried butternut squash   apple soup   crock pot,occasion_tags,5,0,0.0,0.0
+113002,curried butternut squash   apple soup   crock pot,technique_tags,5,0,0.0,0.0
+113002,curried butternut squash   apple soup   crock pot,equipment_tags,5,0,0.0,0.0
+113002,curried butternut squash   apple soup   crock pot,Health_tags,5,0,0.0,0.0
+113002,curried butternut squash   apple soup   crock pot,specific_ingredients_tags,5,0,0.0,0.0
+361669,crispy oven baked chicken breasts,time_tags,5,0,0.0,0.0
+361669,crispy oven baked chicken breasts,course_tags,5,0,0.0,0.0
+361669,crispy oven baked chicken breasts,cuisine_tags,5,0,0.0,0.0
+361669,crispy oven baked chicken breasts,dietary_tags,5,1,0.2,1.0
+361669,crispy oven baked chicken breasts,ingredient_tags,5,0,0.0,0.0
+361669,crispy oven baked chicken breasts,taste_mood_tags,5,1,0.2,1.0
+361669,crispy oven baked chicken breasts,occasion_tags,5,0,0.0,0.0
+361669,crispy oven baked chicken breasts,technique_tags,5,0,0.0,0.0
+361669,crispy oven baked chicken breasts,equipment_tags,5,1,0.2,1.0
+361669,crispy oven baked chicken breasts,Health_tags,5,0,0.0,0.0
+361669,crispy oven baked chicken breasts,specific_ingredients_tags,5,1,0.2,1.0
+7501,macaroni and cheese with vegetables,time_tags,5,0,0.0,0.0
+7501,macaroni and cheese with vegetables,course_tags,5,0,0.0,0.0
+7501,macaroni and cheese with vegetables,cuisine_tags,5,0,0.0,0.0
+7501,macaroni and cheese with vegetables,dietary_tags,5,0,0.0,0.0
+7501,macaroni and cheese with vegetables,ingredient_tags,5,1,0.2,1.0
+7501,macaroni and cheese with vegetables,taste_mood_tags,5,0,0.0,0.0
+7501,macaroni and cheese with vegetables,occasion_tags,5,0,0.0,0.0
+7501,macaroni and cheese with vegetables,technique_tags,5,0,0.0,0.0
+7501,macaroni and cheese with vegetables,equipment_tags,5,1,0.2,1.0
+7501,macaroni and cheese with vegetables,Health_tags,5,0,0.0,0.0
+7501,macaroni and cheese with vegetables,specific_ingredients_tags,5,0,0.0,0.0
+37370,corn  mozzarella and tomato fresca,time_tags,5,0,0.0,0.0
+37370,corn  mozzarella and tomato fresca,course_tags,5,0,0.0,0.0
+37370,corn  mozzarella and tomato fresca,cuisine_tags,5,0,0.0,0.0
+37370,corn  mozzarella and tomato fresca,dietary_tags,5,0,0.0,0.0
+37370,corn  mozzarella and tomato fresca,ingredient_tags,5,1,0.2,1.0
+37370,corn  mozzarella and tomato fresca,taste_mood_tags,5,0,0.0,0.0
+37370,corn  mozzarella and tomato fresca,occasion_tags,5,0,0.0,0.0
+37370,corn  mozzarella and tomato fresca,technique_tags,5,0,0.0,0.0
+37370,corn  mozzarella and tomato fresca,equipment_tags,5,0,0.0,0.0
+37370,corn  mozzarella and tomato fresca,Health_tags,5,0,0.0,0.0
+37370,corn  mozzarella and tomato fresca,specific_ingredients_tags,5,1,0.2,1.0
+193235,honeyed chicken teriyaki,time_tags,5,0,0.0,0.0
+193235,honeyed chicken teriyaki,course_tags,5,0,0.0,0.0
+193235,honeyed chicken teriyaki,cuisine_tags,5,0,0.0,0.0
+193235,honeyed chicken teriyaki,dietary_tags,5,0,0.0,0.0
+193235,honeyed chicken teriyaki,ingredient_tags,5,0,0.0,0.0
+193235,honeyed chicken teriyaki,taste_mood_tags,5,0,0.0,0.0
+193235,honeyed chicken teriyaki,occasion_tags,5,0,0.0,0.0
+193235,honeyed chicken teriyaki,technique_tags,5,0,0.0,0.0
+193235,honeyed chicken teriyaki,equipment_tags,5,0,0.0,0.0
+193235,honeyed chicken teriyaki,Health_tags,5,0,0.0,0.0
+193235,honeyed chicken teriyaki,specific_ingredients_tags,5,0,0.0,0.0
+291997,gluten   yeast free italian bread,time_tags,5,0,0.0,0.0
+291997,gluten   yeast free italian bread,course_tags,5,0,0.0,0.0
+291997,gluten   yeast free italian bread,cuisine_tags,5,0,0.0,0.0
+291997,gluten   yeast free italian bread,dietary_tags,5,0,0.0,0.0
+291997,gluten   yeast free italian bread,ingredient_tags,5,0,0.0,0.0
+291997,gluten   yeast free italian bread,taste_mood_tags,5,0,0.0,0.0
+291997,gluten   yeast free italian bread,occasion_tags,5,0,0.0,0.0
+291997,gluten   yeast free italian bread,technique_tags,5,0,0.0,0.0
+291997,gluten   yeast free italian bread,equipment_tags,5,0,0.0,0.0
+291997,gluten   yeast free italian bread,Health_tags,5,0,0.0,0.0
+291997,gluten   yeast free italian bread,specific_ingredients_tags,5,0,0.0,0.0
+85663,velveeta meat dip,time_tags,5,0,0.0,0.0
+85663,velveeta meat dip,course_tags,5,0,0.0,0.0
+85663,velveeta meat dip,cuisine_tags,5,0,0.0,0.0
+85663,velveeta meat dip,dietary_tags,5,0,0.0,0.0
+85663,velveeta meat dip,ingredient_tags,5,0,0.0,0.0
+85663,velveeta meat dip,taste_mood_tags,5,0,0.0,0.0
+85663,velveeta meat dip,occasion_tags,5,0,0.0,0.0
+85663,velveeta meat dip,technique_tags,5,0,0.0,0.0
+85663,velveeta meat dip,equipment_tags,5,0,0.0,0.0
+85663,velveeta meat dip,Health_tags,5,0,0.0,0.0
+85663,velveeta meat dip,specific_ingredients_tags,5,0,0.0,0.0
+232780,easy peasy dream whip chocolate mousse,time_tags,5,1,0.2,1.0
+232780,easy peasy dream whip chocolate mousse,course_tags,5,0,0.0,0.0
+232780,easy peasy dream whip chocolate mousse,cuisine_tags,5,0,0.0,0.0
+232780,easy peasy dream whip chocolate mousse,dietary_tags,5,0,0.0,0.0
+232780,easy peasy dream whip chocolate mousse,ingredient_tags,5,0,0.0,0.0
+232780,easy peasy dream whip chocolate mousse,taste_mood_tags,5,0,0.0,0.0
+232780,easy peasy dream whip chocolate mousse,occasion_tags,5,1,0.2,1.0
+232780,easy peasy dream whip chocolate mousse,technique_tags,5,0,0.0,0.0
+232780,easy peasy dream whip chocolate mousse,equipment_tags,5,0,0.0,0.0
+232780,easy peasy dream whip chocolate mousse,Health_tags,5,0,0.0,0.0
+232780,easy peasy dream whip chocolate mousse,specific_ingredients_tags,5,0,0.0,0.0
+444299,cardamom balls,time_tags,5,0,0.0,0.0
+444299,cardamom balls,course_tags,5,0,0.0,0.0
+444299,cardamom balls,cuisine_tags,5,1,0.2,1.0
+444299,cardamom balls,dietary_tags,5,2,0.4,1.0
+444299,cardamom balls,ingredient_tags,5,0,0.0,0.0
+444299,cardamom balls,taste_mood_tags,5,0,0.0,0.0
+444299,cardamom balls,occasion_tags,5,0,0.0,0.0
+444299,cardamom balls,technique_tags,5,0,0.0,0.0
+444299,cardamom balls,equipment_tags,5,0,0.0,0.0
+444299,cardamom balls,Health_tags,5,1,0.2,1.0
+444299,cardamom balls,specific_ingredients_tags,5,0,0.0,0.0
+367886,lowcountry smothered pork chops,time_tags,5,0,0.0,0.0
+367886,lowcountry smothered pork chops,course_tags,5,0,0.0,0.0
+367886,lowcountry smothered pork chops,cuisine_tags,5,0,0.0,0.0
+367886,lowcountry smothered pork chops,dietary_tags,5,0,0.0,0.0
+367886,lowcountry smothered pork chops,ingredient_tags,5,0,0.0,0.0
+367886,lowcountry smothered pork chops,taste_mood_tags,5,0,0.0,0.0
+367886,lowcountry smothered pork chops,occasion_tags,5,0,0.0,0.0
+367886,lowcountry smothered pork chops,technique_tags,5,0,0.0,0.0
+367886,lowcountry smothered pork chops,equipment_tags,5,0,0.0,0.0
+367886,lowcountry smothered pork chops,Health_tags,5,0,0.0,0.0
+367886,lowcountry smothered pork chops,specific_ingredients_tags,5,0,0.0,0.0
+95470,raw cauliflower salad,time_tags,5,0,0.0,0.0
+95470,raw cauliflower salad,course_tags,5,0,0.0,0.0
+95470,raw cauliflower salad,cuisine_tags,5,0,0.0,0.0
+95470,raw cauliflower salad,dietary_tags,5,1,0.2,1.0
+95470,raw cauliflower salad,ingredient_tags,5,0,0.0,0.0
+95470,raw cauliflower salad,taste_mood_tags,5,0,0.0,0.0
+95470,raw cauliflower salad,occasion_tags,5,0,0.0,0.0
+95470,raw cauliflower salad,technique_tags,5,0,0.0,0.0
+95470,raw cauliflower salad,equipment_tags,5,0,0.0,0.0
+95470,raw cauliflower salad,Health_tags,5,0,0.0,0.0
+95470,raw cauliflower salad,specific_ingredients_tags,5,0,0.0,0.0
+60891,copycat cheesecake factory s avocado egg rolls by todd wilbur,time_tags,5,0,0.0,0.0
+60891,copycat cheesecake factory s avocado egg rolls by todd wilbur,course_tags,5,2,0.4,1.0
+60891,copycat cheesecake factory s avocado egg rolls by todd wilbur,cuisine_tags,5,0,0.0,0.0
+60891,copycat cheesecake factory s avocado egg rolls by todd wilbur,dietary_tags,5,0,0.0,0.0
+60891,copycat cheesecake factory s avocado egg rolls by todd wilbur,ingredient_tags,5,0,0.0,0.0
+60891,copycat cheesecake factory s avocado egg rolls by todd wilbur,taste_mood_tags,5,2,0.4,1.0
+60891,copycat cheesecake factory s avocado egg rolls by todd wilbur,occasion_tags,5,0,0.0,0.0
+60891,copycat cheesecake factory s avocado egg rolls by todd wilbur,technique_tags,5,0,0.0,0.0
+60891,copycat cheesecake factory s avocado egg rolls by todd wilbur,equipment_tags,5,1,0.2,1.0
+60891,copycat cheesecake factory s avocado egg rolls by todd wilbur,Health_tags,5,0,0.0,0.0
+60891,copycat cheesecake factory s avocado egg rolls by todd wilbur,specific_ingredients_tags,5,0,0.0,0.0
+268318,quick and easy nachos,time_tags,5,0,0.0,0.0
+268318,quick and easy nachos,course_tags,5,0,0.0,0.0
+268318,quick and easy nachos,cuisine_tags,5,1,0.2,1.0
+268318,quick and easy nachos,dietary_tags,5,0,0.0,0.0
+268318,quick and easy nachos,ingredient_tags,5,0,0.0,0.0
+268318,quick and easy nachos,taste_mood_tags,5,0,0.0,0.0
+268318,quick and easy nachos,occasion_tags,5,1,0.2,1.0
+268318,quick and easy nachos,technique_tags,5,0,0.0,0.0
+268318,quick and easy nachos,equipment_tags,5,0,0.0,0.0
+268318,quick and easy nachos,Health_tags,5,0,0.0,0.0
+268318,quick and easy nachos,specific_ingredients_tags,5,0,0.0,0.0
+19994,elephant ears,time_tags,5,0,0.0,0.0
+19994,elephant ears,course_tags,5,0,0.0,0.0
+19994,elephant ears,cuisine_tags,5,0,0.0,0.0
+19994,elephant ears,dietary_tags,5,0,0.0,0.0
+19994,elephant ears,ingredient_tags,5,0,0.0,0.0
+19994,elephant ears,taste_mood_tags,5,0,0.0,0.0
+19994,elephant ears,occasion_tags,5,0,0.0,0.0
+19994,elephant ears,technique_tags,5,0,0.0,0.0
+19994,elephant ears,equipment_tags,5,0,0.0,0.0
+19994,elephant ears,Health_tags,5,0,0.0,0.0
+19994,elephant ears,specific_ingredients_tags,5,0,0.0,0.0
+73412,jelly filled pound cake cupcakes with peanut butter frosting,time_tags,5,0,0.0,0.0
+73412,jelly filled pound cake cupcakes with peanut butter frosting,course_tags,5,0,0.0,0.0
+73412,jelly filled pound cake cupcakes with peanut butter frosting,cuisine_tags,5,0,0.0,0.0
+73412,jelly filled pound cake cupcakes with peanut butter frosting,dietary_tags,5,0,0.0,0.0
+73412,jelly filled pound cake cupcakes with peanut butter frosting,ingredient_tags,5,0,0.0,0.0
+73412,jelly filled pound cake cupcakes with peanut butter frosting,taste_mood_tags,5,0,0.0,0.0
+73412,jelly filled pound cake cupcakes with peanut butter frosting,occasion_tags,5,0,0.0,0.0
+73412,jelly filled pound cake cupcakes with peanut butter frosting,technique_tags,5,1,0.2,1.0
+73412,jelly filled pound cake cupcakes with peanut butter frosting,equipment_tags,5,0,0.0,0.0
+73412,jelly filled pound cake cupcakes with peanut butter frosting,Health_tags,5,0,0.0,0.0
+73412,jelly filled pound cake cupcakes with peanut butter frosting,specific_ingredients_tags,5,1,0.2,1.0
+79921,spinach artichoke dip   look no further this is the one,time_tags,5,0,0.0,0.0
+79921,spinach artichoke dip   look no further this is the one,course_tags,5,0,0.0,0.0
+79921,spinach artichoke dip   look no further this is the one,cuisine_tags,5,0,0.0,0.0
+79921,spinach artichoke dip   look no further this is the one,dietary_tags,5,0,0.0,0.0
+79921,spinach artichoke dip   look no further this is the one,ingredient_tags,5,0,0.0,0.0
+79921,spinach artichoke dip   look no further this is the one,taste_mood_tags,5,1,0.2,1.0
+79921,spinach artichoke dip   look no further this is the one,occasion_tags,5,0,0.0,0.0
+79921,spinach artichoke dip   look no further this is the one,technique_tags,5,0,0.0,0.0
+79921,spinach artichoke dip   look no further this is the one,equipment_tags,5,0,0.0,0.0
+79921,spinach artichoke dip   look no further this is the one,Health_tags,5,0,0.0,0.0
+79921,spinach artichoke dip   look no further this is the one,specific_ingredients_tags,5,0,0.0,0.0
+169393,kidney less  lancashire hot pot,time_tags,5,0,0.0,0.0
+169393,kidney less  lancashire hot pot,course_tags,5,0,0.0,0.0
+169393,kidney less  lancashire hot pot,cuisine_tags,5,0,0.0,0.0
+169393,kidney less  lancashire hot pot,dietary_tags,5,0,0.0,0.0
+169393,kidney less  lancashire hot pot,ingredient_tags,5,1,0.2,0.9999999999999998
+169393,kidney less  lancashire hot pot,taste_mood_tags,5,0,0.0,0.0
+169393,kidney less  lancashire hot pot,occasion_tags,5,0,0.0,0.0
+169393,kidney less  lancashire hot pot,technique_tags,5,0,0.0,0.0
+169393,kidney less  lancashire hot pot,equipment_tags,5,0,0.0,0.0
+169393,kidney less  lancashire hot pot,Health_tags,5,0,0.0,0.0
+169393,kidney less  lancashire hot pot,specific_ingredients_tags,5,0,0.0,0.0
+113220,chai tea cupcakes,time_tags,5,0,0.0,0.0
+113220,chai tea cupcakes,course_tags,5,0,0.0,0.0
+113220,chai tea cupcakes,cuisine_tags,5,0,0.0,0.0
+113220,chai tea cupcakes,dietary_tags,5,0,0.0,0.0
+113220,chai tea cupcakes,ingredient_tags,5,0,0.0,0.0
+113220,chai tea cupcakes,taste_mood_tags,5,0,0.0,0.0
+113220,chai tea cupcakes,occasion_tags,5,0,0.0,0.0
+113220,chai tea cupcakes,technique_tags,5,0,0.0,0.0
+113220,chai tea cupcakes,equipment_tags,5,0,0.0,0.0
+113220,chai tea cupcakes,Health_tags,5,0,0.0,0.0
+113220,chai tea cupcakes,specific_ingredients_tags,5,0,0.0,0.0
+229001,dad s peanut butter on shredded wheat,time_tags,5,0,0.0,0.0
+229001,dad s peanut butter on shredded wheat,course_tags,5,0,0.0,0.0
+229001,dad s peanut butter on shredded wheat,cuisine_tags,5,0,0.0,0.0
+229001,dad s peanut butter on shredded wheat,dietary_tags,5,0,0.0,0.0
+229001,dad s peanut butter on shredded wheat,ingredient_tags,5,0,0.0,0.0
+229001,dad s peanut butter on shredded wheat,taste_mood_tags,5,0,0.0,0.0
+229001,dad s peanut butter on shredded wheat,occasion_tags,5,0,0.0,0.0
+229001,dad s peanut butter on shredded wheat,technique_tags,5,0,0.0,0.0
+229001,dad s peanut butter on shredded wheat,equipment_tags,5,0,0.0,0.0
+229001,dad s peanut butter on shredded wheat,Health_tags,5,0,0.0,0.0
+229001,dad s peanut butter on shredded wheat,specific_ingredients_tags,5,1,0.2,1.0
+130408,mary jane s potatoes,time_tags,5,0,0.0,0.0
+130408,mary jane s potatoes,course_tags,5,0,0.0,0.0
+130408,mary jane s potatoes,cuisine_tags,5,0,0.0,0.0
+130408,mary jane s potatoes,dietary_tags,5,1,0.2,1.0
+130408,mary jane s potatoes,ingredient_tags,5,1,0.2,1.0
+130408,mary jane s potatoes,taste_mood_tags,5,0,0.0,0.0
+130408,mary jane s potatoes,occasion_tags,5,0,0.0,0.0
+130408,mary jane s potatoes,technique_tags,5,0,0.0,0.0
+130408,mary jane s potatoes,equipment_tags,5,0,0.0,0.0
+130408,mary jane s potatoes,Health_tags,5,0,0.0,0.0
+130408,mary jane s potatoes,specific_ingredients_tags,5,0,0.0,0.0

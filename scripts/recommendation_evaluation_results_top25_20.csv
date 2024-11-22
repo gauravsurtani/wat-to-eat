@@ -1,0 +1,221 @@
+Recipe ID,Recipe Name,Tag Group,Total Recommendations,Matches,Precision,Best Match Score
+243278,apple pecan pancakes,time_tags,25,1,0.04,1.0
+243278,apple pecan pancakes,course_tags,25,4,0.16,1.0
+243278,apple pecan pancakes,cuisine_tags,25,3,0.12,1.0
+243278,apple pecan pancakes,dietary_tags,25,2,0.08,1.0
+243278,apple pecan pancakes,ingredient_tags,25,1,0.04,0.9999999999999998
+243278,apple pecan pancakes,taste_mood_tags,25,2,0.08,1.0
+243278,apple pecan pancakes,occasion_tags,25,2,0.08,1.0
+243278,apple pecan pancakes,technique_tags,25,0,0.0,0.0
+243278,apple pecan pancakes,equipment_tags,25,1,0.04,1.0
+243278,apple pecan pancakes,Health_tags,25,0,0.0,0.0
+243278,apple pecan pancakes,specific_ingredients_tags,25,2,0.08,1.0
+46294,german liverwurst dip,time_tags,25,1,0.04,1.0
+46294,german liverwurst dip,course_tags,25,3,0.12,1.0
+46294,german liverwurst dip,cuisine_tags,25,3,0.12,1.0
+46294,german liverwurst dip,dietary_tags,25,1,0.04,1.0
+46294,german liverwurst dip,ingredient_tags,25,0,0.0,0.0
+46294,german liverwurst dip,taste_mood_tags,25,2,0.08,0.9999999999999998
+46294,german liverwurst dip,occasion_tags,25,5,0.2,0.9999999999999998
+46294,german liverwurst dip,technique_tags,25,1,0.04,1.0
+46294,german liverwurst dip,equipment_tags,25,2,0.08,1.0
+46294,german liverwurst dip,Health_tags,25,1,0.04,1.0
+46294,german liverwurst dip,specific_ingredients_tags,25,0,0.0,0.0
+316425,yaya s apple dessert,time_tags,25,0,0.0,0.0
+316425,yaya s apple dessert,course_tags,25,0,0.0,0.0
+316425,yaya s apple dessert,cuisine_tags,25,0,0.0,0.0
+316425,yaya s apple dessert,dietary_tags,25,1,0.04,1.0
+316425,yaya s apple dessert,ingredient_tags,25,0,0.0,0.0
+316425,yaya s apple dessert,taste_mood_tags,25,0,0.0,0.0
+316425,yaya s apple dessert,occasion_tags,25,0,0.0,0.0
+316425,yaya s apple dessert,technique_tags,25,0,0.0,0.0
+316425,yaya s apple dessert,equipment_tags,25,0,0.0,0.0
+316425,yaya s apple dessert,Health_tags,25,0,0.0,0.0
+316425,yaya s apple dessert,specific_ingredients_tags,25,0,0.0,0.0
+85847,manchurian shrimp  garlic flavored shrimp,time_tags,25,0,0.0,0.0
+85847,manchurian shrimp  garlic flavored shrimp,course_tags,25,0,0.0,0.0
+85847,manchurian shrimp  garlic flavored shrimp,cuisine_tags,25,0,0.0,0.0
+85847,manchurian shrimp  garlic flavored shrimp,dietary_tags,25,0,0.0,0.0
+85847,manchurian shrimp  garlic flavored shrimp,ingredient_tags,25,1,0.04,1.0
+85847,manchurian shrimp  garlic flavored shrimp,taste_mood_tags,25,0,0.0,0.0
+85847,manchurian shrimp  garlic flavored shrimp,occasion_tags,25,0,0.0,0.0
+85847,manchurian shrimp  garlic flavored shrimp,technique_tags,25,0,0.0,0.0
+85847,manchurian shrimp  garlic flavored shrimp,equipment_tags,25,0,0.0,0.0
+85847,manchurian shrimp  garlic flavored shrimp,Health_tags,25,0,0.0,0.0
+85847,manchurian shrimp  garlic flavored shrimp,specific_ingredients_tags,25,0,0.0,0.0
+190214,roasted potatoes  carrots  parsnips and brussels sprouts,time_tags,25,0,0.0,0.0
+190214,roasted potatoes  carrots  parsnips and brussels sprouts,course_tags,25,1,0.04,0.9999999999999998
+190214,roasted potatoes  carrots  parsnips and brussels sprouts,cuisine_tags,25,2,0.08,0.9999999999999998
+190214,roasted potatoes  carrots  parsnips and brussels sprouts,dietary_tags,25,1,0.04,0.9999999999999998
+190214,roasted potatoes  carrots  parsnips and brussels sprouts,ingredient_tags,25,2,0.08,1.0
+190214,roasted potatoes  carrots  parsnips and brussels sprouts,taste_mood_tags,25,0,0.0,0.0
+190214,roasted potatoes  carrots  parsnips and brussels sprouts,occasion_tags,25,0,0.0,0.0
+190214,roasted potatoes  carrots  parsnips and brussels sprouts,technique_tags,25,0,0.0,0.0
+190214,roasted potatoes  carrots  parsnips and brussels sprouts,equipment_tags,25,0,0.0,0.0
+190214,roasted potatoes  carrots  parsnips and brussels sprouts,Health_tags,25,0,0.0,0.0
+190214,roasted potatoes  carrots  parsnips and brussels sprouts,specific_ingredients_tags,25,0,0.0,0.0
+82246,four layer marshmallow bars,time_tags,25,0,0.0,0.0
+82246,four layer marshmallow bars,course_tags,25,0,0.0,0.0
+82246,four layer marshmallow bars,cuisine_tags,25,0,0.0,0.0
+82246,four layer marshmallow bars,dietary_tags,25,1,0.04,1.0
+82246,four layer marshmallow bars,ingredient_tags,25,0,0.0,0.0
+82246,four layer marshmallow bars,taste_mood_tags,25,0,0.0,0.0
+82246,four layer marshmallow bars,occasion_tags,25,0,0.0,0.0
+82246,four layer marshmallow bars,technique_tags,25,0,0.0,0.0
+82246,four layer marshmallow bars,equipment_tags,25,0,0.0,0.0
+82246,four layer marshmallow bars,Health_tags,25,0,0.0,0.0
+82246,four layer marshmallow bars,specific_ingredients_tags,25,0,0.0,0.0
+83024,pepper nuts  pfeffernusse,time_tags,25,0,0.0,0.0
+83024,pepper nuts  pfeffernusse,course_tags,25,0,0.0,0.0
+83024,pepper nuts  pfeffernusse,cuisine_tags,25,0,0.0,0.0
+83024,pepper nuts  pfeffernusse,dietary_tags,25,0,0.0,0.0
+83024,pepper nuts  pfeffernusse,ingredient_tags,25,0,0.0,0.0
+83024,pepper nuts  pfeffernusse,taste_mood_tags,25,0,0.0,0.0
+83024,pepper nuts  pfeffernusse,occasion_tags,25,0,0.0,0.0
+83024,pepper nuts  pfeffernusse,technique_tags,25,0,0.0,0.0
+83024,pepper nuts  pfeffernusse,equipment_tags,25,0,0.0,0.0
+83024,pepper nuts  pfeffernusse,Health_tags,25,0,0.0,0.0
+83024,pepper nuts  pfeffernusse,specific_ingredients_tags,25,0,0.0,0.0
+96236,layered  zucchini   yellow squash casserole,time_tags,25,0,0.0,0.0
+96236,layered  zucchini   yellow squash casserole,course_tags,25,0,0.0,0.0
+96236,layered  zucchini   yellow squash casserole,cuisine_tags,25,0,0.0,0.0
+96236,layered  zucchini   yellow squash casserole,dietary_tags,25,0,0.0,0.0
+96236,layered  zucchini   yellow squash casserole,ingredient_tags,25,1,0.04,1.0
+96236,layered  zucchini   yellow squash casserole,taste_mood_tags,25,0,0.0,0.0
+96236,layered  zucchini   yellow squash casserole,occasion_tags,25,0,0.0,0.0
+96236,layered  zucchini   yellow squash casserole,technique_tags,25,2,0.08,1.0
+96236,layered  zucchini   yellow squash casserole,equipment_tags,25,1,0.04,1.0
+96236,layered  zucchini   yellow squash casserole,Health_tags,25,0,0.0,0.0
+96236,layered  zucchini   yellow squash casserole,specific_ingredients_tags,25,0,0.0,0.0
+61792,thai prawn and pineapple curry   kaeng khua saparot,time_tags,25,1,0.04,1.0
+61792,thai prawn and pineapple curry   kaeng khua saparot,course_tags,25,1,0.04,1.0
+61792,thai prawn and pineapple curry   kaeng khua saparot,cuisine_tags,25,1,0.04,1.0
+61792,thai prawn and pineapple curry   kaeng khua saparot,dietary_tags,25,1,0.04,1.0
+61792,thai prawn and pineapple curry   kaeng khua saparot,ingredient_tags,25,2,0.08,1.0
+61792,thai prawn and pineapple curry   kaeng khua saparot,taste_mood_tags,25,2,0.08,1.0
+61792,thai prawn and pineapple curry   kaeng khua saparot,occasion_tags,25,1,0.04,1.0
+61792,thai prawn and pineapple curry   kaeng khua saparot,technique_tags,25,0,0.0,0.0
+61792,thai prawn and pineapple curry   kaeng khua saparot,equipment_tags,25,2,0.08,1.0
+61792,thai prawn and pineapple curry   kaeng khua saparot,Health_tags,25,1,0.04,0.9999999999999998
+61792,thai prawn and pineapple curry   kaeng khua saparot,specific_ingredients_tags,25,0,0.0,0.0
+82313,spinach stuffed turkey loaf,time_tags,25,0,0.0,0.0
+82313,spinach stuffed turkey loaf,course_tags,25,0,0.0,0.0
+82313,spinach stuffed turkey loaf,cuisine_tags,25,1,0.04,1.0
+82313,spinach stuffed turkey loaf,dietary_tags,25,0,0.0,0.0
+82313,spinach stuffed turkey loaf,ingredient_tags,25,0,0.0,0.0
+82313,spinach stuffed turkey loaf,taste_mood_tags,25,0,0.0,0.0
+82313,spinach stuffed turkey loaf,occasion_tags,25,0,0.0,0.0
+82313,spinach stuffed turkey loaf,technique_tags,25,1,0.04,1.0
+82313,spinach stuffed turkey loaf,equipment_tags,25,0,0.0,0.0
+82313,spinach stuffed turkey loaf,Health_tags,25,0,0.0,0.0
+82313,spinach stuffed turkey loaf,specific_ingredients_tags,25,0,0.0,0.0
+304891,italian turkey burgers  reduced fat,time_tags,25,0,0.0,0.0
+304891,italian turkey burgers  reduced fat,course_tags,25,0,0.0,0.0
+304891,italian turkey burgers  reduced fat,cuisine_tags,25,0,0.0,0.0
+304891,italian turkey burgers  reduced fat,dietary_tags,25,2,0.08,1.0
+304891,italian turkey burgers  reduced fat,ingredient_tags,25,3,0.12,1.0
+304891,italian turkey burgers  reduced fat,taste_mood_tags,25,0,0.0,0.0
+304891,italian turkey burgers  reduced fat,occasion_tags,25,0,0.0,0.0
+304891,italian turkey burgers  reduced fat,technique_tags,25,0,0.0,0.0
+304891,italian turkey burgers  reduced fat,equipment_tags,25,0,0.0,0.0
+304891,italian turkey burgers  reduced fat,Health_tags,25,1,0.04,1.0
+304891,italian turkey burgers  reduced fat,specific_ingredients_tags,25,0,0.0,0.0
+414946,yorkshire tea loaf with mixed spice  cherries and raisins,time_tags,25,0,0.0,0.0
+414946,yorkshire tea loaf with mixed spice  cherries and raisins,course_tags,25,0,0.0,0.0
+414946,yorkshire tea loaf with mixed spice  cherries and raisins,cuisine_tags,25,0,0.0,0.0
+414946,yorkshire tea loaf with mixed spice  cherries and raisins,dietary_tags,25,0,0.0,0.0
+414946,yorkshire tea loaf with mixed spice  cherries and raisins,ingredient_tags,25,1,0.04,0.9999999999999998
+414946,yorkshire tea loaf with mixed spice  cherries and raisins,taste_mood_tags,25,0,0.0,0.0
+414946,yorkshire tea loaf with mixed spice  cherries and raisins,occasion_tags,25,0,0.0,0.0
+414946,yorkshire tea loaf with mixed spice  cherries and raisins,technique_tags,25,0,0.0,0.0
+414946,yorkshire tea loaf with mixed spice  cherries and raisins,equipment_tags,25,0,0.0,0.0
+414946,yorkshire tea loaf with mixed spice  cherries and raisins,Health_tags,25,0,0.0,0.0
+414946,yorkshire tea loaf with mixed spice  cherries and raisins,specific_ingredients_tags,25,1,0.04,1.0
+17149,crusty cheese bread,time_tags,25,2,0.08,1.0
+17149,crusty cheese bread,course_tags,25,0,0.0,0.0
+17149,crusty cheese bread,cuisine_tags,25,0,0.0,0.0
+17149,crusty cheese bread,dietary_tags,25,0,0.0,0.0
+17149,crusty cheese bread,ingredient_tags,25,0,0.0,0.0
+17149,crusty cheese bread,taste_mood_tags,25,0,0.0,0.0
+17149,crusty cheese bread,occasion_tags,25,0,0.0,0.0
+17149,crusty cheese bread,technique_tags,25,0,0.0,0.0
+17149,crusty cheese bread,equipment_tags,25,0,0.0,0.0
+17149,crusty cheese bread,Health_tags,25,0,0.0,0.0
+17149,crusty cheese bread,specific_ingredients_tags,25,0,0.0,0.0
+101572,green tea shortbread cookies,time_tags,25,0,0.0,0.0
+101572,green tea shortbread cookies,course_tags,25,0,0.0,0.0
+101572,green tea shortbread cookies,cuisine_tags,25,3,0.12,0.9999999999999997
+101572,green tea shortbread cookies,dietary_tags,25,0,0.0,0.0
+101572,green tea shortbread cookies,ingredient_tags,25,0,0.0,0.0
+101572,green tea shortbread cookies,taste_mood_tags,25,0,0.0,0.0
+101572,green tea shortbread cookies,occasion_tags,25,1,0.04,0.9999999999999998
+101572,green tea shortbread cookies,technique_tags,25,0,0.0,0.0
+101572,green tea shortbread cookies,equipment_tags,25,0,0.0,0.0
+101572,green tea shortbread cookies,Health_tags,25,0,0.0,0.0
+101572,green tea shortbread cookies,specific_ingredients_tags,25,0,0.0,0.0
+136609,no cook scotcheroos    peanut butter rice crispy treats,time_tags,25,0,0.0,0.0
+136609,no cook scotcheroos    peanut butter rice crispy treats,course_tags,25,0,0.0,0.0
+136609,no cook scotcheroos    peanut butter rice crispy treats,cuisine_tags,25,0,0.0,0.0
+136609,no cook scotcheroos    peanut butter rice crispy treats,dietary_tags,25,1,0.04,1.0
+136609,no cook scotcheroos    peanut butter rice crispy treats,ingredient_tags,25,0,0.0,0.0
+136609,no cook scotcheroos    peanut butter rice crispy treats,taste_mood_tags,25,0,0.0,0.0
+136609,no cook scotcheroos    peanut butter rice crispy treats,occasion_tags,25,0,0.0,0.0
+136609,no cook scotcheroos    peanut butter rice crispy treats,technique_tags,25,0,0.0,0.0
+136609,no cook scotcheroos    peanut butter rice crispy treats,equipment_tags,25,0,0.0,0.0
+136609,no cook scotcheroos    peanut butter rice crispy treats,Health_tags,25,0,0.0,0.0
+136609,no cook scotcheroos    peanut butter rice crispy treats,specific_ingredients_tags,25,1,0.04,1.0
+216715,cocoa and cream cake,time_tags,25,1,0.04,1.0
+216715,cocoa and cream cake,course_tags,25,4,0.16,0.9999999999999998
+216715,cocoa and cream cake,cuisine_tags,25,1,0.04,1.0
+216715,cocoa and cream cake,dietary_tags,25,3,0.12,1.0
+216715,cocoa and cream cake,ingredient_tags,25,4,0.16,1.0
+216715,cocoa and cream cake,taste_mood_tags,25,1,0.04,1.0
+216715,cocoa and cream cake,occasion_tags,25,2,0.08,1.0
+216715,cocoa and cream cake,technique_tags,25,3,0.12,1.0
+216715,cocoa and cream cake,equipment_tags,25,0,0.0,0.0
+216715,cocoa and cream cake,Health_tags,25,0,0.0,0.0
+216715,cocoa and cream cake,specific_ingredients_tags,25,4,0.16,1.0
+340863,no egg nog,time_tags,25,0,0.0,0.0
+340863,no egg nog,course_tags,25,0,0.0,0.0
+340863,no egg nog,cuisine_tags,25,0,0.0,0.0
+340863,no egg nog,dietary_tags,25,2,0.08,1.0
+340863,no egg nog,ingredient_tags,25,0,0.0,0.0
+340863,no egg nog,taste_mood_tags,25,0,0.0,0.0
+340863,no egg nog,occasion_tags,25,1,0.04,1.0
+340863,no egg nog,technique_tags,25,0,0.0,0.0
+340863,no egg nog,equipment_tags,25,0,0.0,0.0
+340863,no egg nog,Health_tags,25,0,0.0,0.0
+340863,no egg nog,specific_ingredients_tags,25,0,0.0,0.0
+25332,hard rock cafe baked potato soup,time_tags,25,1,0.04,1.0
+25332,hard rock cafe baked potato soup,course_tags,25,1,0.04,1.0
+25332,hard rock cafe baked potato soup,cuisine_tags,25,2,0.08,0.9999999999999998
+25332,hard rock cafe baked potato soup,dietary_tags,25,2,0.08,0.9999999999999998
+25332,hard rock cafe baked potato soup,ingredient_tags,25,1,0.04,1.0
+25332,hard rock cafe baked potato soup,taste_mood_tags,25,2,0.08,0.9999999999999998
+25332,hard rock cafe baked potato soup,occasion_tags,25,1,0.04,1.0
+25332,hard rock cafe baked potato soup,technique_tags,25,1,0.04,1.0
+25332,hard rock cafe baked potato soup,equipment_tags,25,0,0.0,0.0
+25332,hard rock cafe baked potato soup,Health_tags,25,1,0.04,1.0
+25332,hard rock cafe baked potato soup,specific_ingredients_tags,25,3,0.12,1.0
+301905,easy yummy king prawn thai green curry,time_tags,25,0,0.0,0.0
+301905,easy yummy king prawn thai green curry,course_tags,25,1,0.04,1.0
+301905,easy yummy king prawn thai green curry,cuisine_tags,25,0,0.0,0.0
+301905,easy yummy king prawn thai green curry,dietary_tags,25,0,0.0,0.0
+301905,easy yummy king prawn thai green curry,ingredient_tags,25,0,0.0,0.0
+301905,easy yummy king prawn thai green curry,taste_mood_tags,25,1,0.04,1.0
+301905,easy yummy king prawn thai green curry,occasion_tags,25,0,0.0,0.0
+301905,easy yummy king prawn thai green curry,technique_tags,25,2,0.08,1.0
+301905,easy yummy king prawn thai green curry,equipment_tags,25,1,0.04,1.0
+301905,easy yummy king prawn thai green curry,Health_tags,25,0,0.0,0.0
+301905,easy yummy king prawn thai green curry,specific_ingredients_tags,25,0,0.0,0.0
+220657,shirley s lobster pie for one,time_tags,25,0,0.0,0.0
+220657,shirley s lobster pie for one,course_tags,25,0,0.0,0.0
+220657,shirley s lobster pie for one,cuisine_tags,25,0,0.0,0.0
+220657,shirley s lobster pie for one,dietary_tags,25,0,0.0,0.0
+220657,shirley s lobster pie for one,ingredient_tags,25,0,0.0,0.0
+220657,shirley s lobster pie for one,taste_mood_tags,25,0,0.0,0.0
+220657,shirley s lobster pie for one,occasion_tags,25,0,0.0,0.0
+220657,shirley s lobster pie for one,technique_tags,25,0,0.0,0.0
+220657,shirley s lobster pie for one,equipment_tags,25,0,0.0,0.0
+220657,shirley s lobster pie for one,Health_tags,25,0,0.0,0.0
+220657,shirley s lobster pie for one,specific_ingredients_tags,25,0,0.0,0.0

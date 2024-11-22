@@ -1,0 +1,12 @@
+Tag Group,Average_Precision,Total_Hits,Total_Recommendations,HIT_Score
+Health_tags,0.008,4,20,20.0
+course_tags,0.03,7,20,35.0
+cuisine_tags,0.032,8,20,40.0
+dietary_tags,0.034,11,20,55.00000000000001
+equipment_tags,0.014000000000000002,5,20,25.0
+ingredient_tags,0.032,9,20,45.0
+occasion_tags,0.026000000000000002,7,20,35.0
+specific_ingredients_tags,0.022,5,20,25.0
+taste_mood_tags,0.02,6,20,30.0
+technique_tags,0.02,6,20,30.0
+time_tags,0.014000000000000002,6,20,30.0
