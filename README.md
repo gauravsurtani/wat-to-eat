@@ -87,6 +87,18 @@ This project is a **Streamlit-based application** that provides **multi-level, t
 4. **View Results**:
    - Recommended recipes will appear below, showing the recipe name and relevant tags.
 
+#### Personalized Recipe Recommendation System:
+
+1. **Select Preferred Ingredients**:
+   - Choose your preferred ingredients from the available options.
+
+2. **Select Dietary Goal**:
+   - Pick a dietary goal (e.g., Weight Gain, Muscle Building) to align recommendations with your health objectives.
+
+3. **Generate Personalized Diet Plan**:
+   - Click the "Generate Diet Plan" button to create a personalized daily diet plan. The plan will include suggestions for breakfast, lunch, snacks, dinner, and desserts.
+
+
 ---
 
 ## File Structure
